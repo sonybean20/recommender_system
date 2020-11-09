@@ -1,30 +1,84 @@
 from modifyInput import splitCSVBasedOnNumReviewPerUser
-from pyspark.mllib.recommendation import ALS, MatrixFactorizationModel, Rating
+from pyspark.mllib.recommendation import MatrixFactorizationModel
 from pyspark import SparkContext
+from pyspark.sql import SparkSession
+from pyspark.ml.evaluation import RegressionEvaluator
+from pyspark.ml.recommendation import ALS
+from pyspark.ml.tuning import ParamGridBuilder, CrossValidator
 
+# Output manyDf to csv, use as input for ALS: only need to run once!
 # lessDf, manyDf = splitCSVBasedOnNumReviewPerUser('data/ml-latest-small/ratings.csv')
-# manyDf.to_csv('data/als-input.csv', index=False, header=False)
+# manyDf.to_csv('data/als-input.csv', index=False)
 
+# Create spark context
 sc = SparkContext("local", "ALS")
+spark = SparkSession.builder.appName('Recommendations').getOrCreate()
 
 # Load and parse the data
-data = sc.textFile("data/als-input.csv")
-ratings = data.map(lambda l: l.split(','))\
-    .map(lambda l: Rating(int(float(l[0])), int(float(l[1])), float(l[2])))
+# data = sc.textFile("data/als-input.csv")
+ratings = spark.read.csv("data/als-input.csv", inferSchema=True, header=True)
+ratings.show()
 
-# Build the recommendation model using Alternating Least Squares
-rank = 10
-numIterations = 10 # default 5
-lambda_val = 0.01 # default 0.01
-model = ALS.train(ratings, rank, iterations=numIterations, lambda_=lambda_val, nonnegative=True)
+# Create test and training set
+(train, test) = ratings.randomSplit([0.8, 0.2], seed = 2020)
 
-# Evaluate the model on training data
-testdata = ratings.map(lambda p: (p[0], p[1]))
-predictions = model.predictAll(testdata).map(lambda r: ((r[0], r[1]), r[2]))
-ratesAndPreds = ratings.map(lambda r: ((r[0], r[1]), r[2])).join(predictions)
-MSE = ratesAndPreds.map(lambda r: (r[1][0] - r[1][1])**2).mean()
-print("Mean Squared Error = " + str(MSE))
+# # Build the recommendation model using Alternating Least Squares
+# rank = 10
+# numIterations = 10 # default 5
+# lambda_val = 0.01 # default 0.01
+# model = ALS.train(ratings, rank, iterations=numIterations, lambda_=lambda_val, nonnegative=True)
+als = ALS(
+         userCol="userId", 
+         itemCol="movieId",
+         ratingCol="rating", 
+         nonnegative = True, 
+         implicitPrefs = False,
+         coldStartStrategy="drop"
+)
 
-# Save and load model
-model.save(sc, "models/als")
-sameModel = MatrixFactorizationModel.load(sc, "models/als")
+# hyperparameter grid
+param_grid = ParamGridBuilder() \
+            .addGrid(als.rank, [10, 50]) \
+            .addGrid(als.regParam, [.01, .05, .1, .15]) \
+            .build()
+
+# evaluator (rmse)
+evaluator = RegressionEvaluator(
+           metricName="rmse", 
+           labelCol="rating", 
+           predictionCol="prediction") 
+print ("Num models to be tested: ", len(param_grid))
+
+# cross validator: 5-fold verification
+cv = CrossValidator(estimator=als, estimatorParamMaps=param_grid, evaluator=evaluator, numFolds=5)
+
+#Fit cross validator to the 'train' dataset
+model = cv.fit(train)
+#Extract best model from the cv model above
+best_model = model.bestModel
+best_model.save(sc, "models/als-best")
+# View the predictions
+test_predictions = best_model.transform(test)
+RMSE = evaluator.evaluate(test_predictions)
+print(RMSE)
+
+print("**Best Model**")
+# Print "Rank"
+print("  Rank:", best_model._java_obj.parent().getRank())
+# Print "MaxIter"
+print("  MaxIter:", best_model._java_obj.parent().getMaxIter())
+# Print "RegParam"
+print("  RegParam:", best_model._java_obj.parent().getRegParam())
+
+
+# Generate n Recommendations for all users
+recommendations = best_model.recommendForAllUsers(5)
+recommendations.show()
+
+# nrecommendations = recommendations\
+#     .withColumn("rec_exp", explode("recommendations"))\
+#     .select('userId', col("rec_exp.movieId"), col("rec_exp.rating"))
+# nrecommendations.limit(10).show()
+
+# load the best model (for future reference)
+# sameModel = MatrixFactorizationModel.load(sc, "models/als-best")
