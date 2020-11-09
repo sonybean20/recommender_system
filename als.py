@@ -56,7 +56,6 @@ cv = CrossValidator(estimator=als, estimatorParamMaps=param_grid, evaluator=eval
 model = cv.fit(train)
 #Extract best model from the cv model above
 best_model = model.bestModel
-best_model.save(sc, "models/als-best")
 # View the predictions
 test_predictions = best_model.transform(test)
 RMSE = evaluator.evaluate(test_predictions)
@@ -70,6 +69,7 @@ print("  MaxIter:", best_model._java_obj.parent().getMaxIter())
 # Print "RegParam"
 print("  RegParam:", best_model._java_obj.parent().getRegParam())
 
+best_model.save("models/als-best")
 
 # Generate n Recommendations for all users
 recommendations = best_model.recommendForAllUsers(5)
