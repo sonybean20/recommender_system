@@ -15,7 +15,6 @@ sc = SparkContext("local", "ALS")
 spark = SparkSession.builder.appName('Recommendations').getOrCreate()
 
 # Load and parse the data
-# data = sc.textFile("data/als-input.csv")
 ratings = spark.read.csv("data/als-input.csv", inferSchema=True, header=True)
 ratings.show()
 
@@ -74,11 +73,3 @@ best_model.save("models/als-best")
 # Generate n Recommendations for all users
 recommendations = best_model.recommendForAllUsers(5)
 recommendations.show()
-
-# nrecommendations = recommendations\
-#     .withColumn("rec_exp", explode("recommendations"))\
-#     .select('userId', col("rec_exp.movieId"), col("rec_exp.rating"))
-# nrecommendations.limit(10).show()
-
-# load the best model (for future reference)
-# sameModel = MatrixFactorizationModel.load(sc, "models/als-best")
