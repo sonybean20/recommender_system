@@ -71,7 +71,7 @@ def content_based_recommendations(input_title, top_N):
         movie_indices.append(i[0])
     return (movies['title'].iloc[movie_indices])
 
-def user_top5_rated_movies(userId):
+def user_top5_related_movies(userId):
     user_top5_movies = ratings_movie.loc[ratings_movie['userId'] == userId]
     print("user_top5_movies:\n", user_top5_movies, "\n")
     user_top5_movies.sort_values("rating", ascending = False, na_position ='last')
@@ -83,5 +83,5 @@ def user_top5_rated_movies(userId):
     print("recommendations:\n", recommendations, "\n")
     return recommendations
 
-user_top5_rated_movies(2)
+user_top5_related_movies(2)
 
