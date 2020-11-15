@@ -1,0 +1,1331 @@
+userId,movieId,rating,title,genres
+580,6300,4.8216896,Flickering Lights (Blinkende lygter) (2000),Action|Comedy|Crime
+580,78836,4.7005506,Enter the Void (2009),Drama
+580,171495,4.693098,Cosmos,(no genres listed)
+580,179135,4.6895514,Blue Planet II (2017),Documentary
+580,117531,4.6895514,Watermark (2014),Documentary
+580,74226,4.6895514,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+580,7071,4.6895514,"Woman Under the Influence, A (1974)",Drama
+580,86237,4.6895514,Connections (1978),Documentary
+580,4708,4.6895514,Marat/Sade (1966),Drama|Musical
+580,184245,4.6895514,De platte jungle (1978),Documentary
+597,3379,5.2689066,On the Beach (1959),Drama
+597,8477,5.2367687,"Jetée, La (1962)",Romance|Sci-Fi
+597,5490,5.100924,The Big Bus (1976),Action|Comedy
+597,858,5.0458984,"Godfather, The (1972)",Crime|Drama
+597,27523,5.0457034,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+597,1262,5.0280714,"Great Escape, The (1963)",Action|Adventure|Drama|War
+597,27156,5.0159144,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+597,5915,4.9925265,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+597,1203,4.9781876,12 Angry Men (1957),Drama
+597,7121,4.969734,Adam's Rib (1949),Comedy|Romance
+368,3379,4.0415397,On the Beach (1959),Drama
+368,7121,3.9360628,Adam's Rib (1949),Comedy|Romance
+368,8477,3.9068403,"Jetée, La (1962)",Romance|Sci-Fi
+368,3200,3.8586931,"Last Detail, The (1973)",Comedy|Drama
+368,5490,3.8507187,The Big Bus (1976),Action|Comedy
+368,7706,3.813139,Animal Crackers (1930),Comedy|Musical
+368,2295,3.811046,"Impostors, The (1998)",Comedy
+368,4495,3.811046,Crossing Delancey (1988),Comedy|Romance
+368,6201,3.811046,Lady Jane (1986),Drama|Romance
+368,5915,3.8034072,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+385,3379,4.6292505,On the Beach (1959),Drama
+385,171495,4.377651,Cosmos,(no genres listed)
+385,8477,4.34166,"Jetée, La (1962)",Romance|Sci-Fi
+385,6442,4.305377,Belle époque (1992),Comedy|Romance
+385,27156,4.2982645,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+385,78836,4.282849,Enter the Void (2009),Drama
+385,27523,4.2814655,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+385,183897,4.2750387,Isle of Dogs (2018),Animation|Comedy
+385,858,4.2533407,"Godfather, The (1972)",Crime|Drama
+385,1204,4.2460823,Lawrence of Arabia (1962),Adventure|Drama|War
+28,7841,4.2780213,Children of Dune (2003),Fantasy|Sci-Fi
+28,59018,4.2780213,"Visitor, The (2007)",Drama|Romance
+28,60943,4.2780213,Frozen River (2008),Drama
+28,7842,4.1176505,Dune (2000),Drama|Fantasy|Sci-Fi
+28,7481,3.9334106,Enemy Mine (1985),Adventure|Drama|Sci-Fi
+28,3379,3.9260676,On the Beach (1959),Drama
+28,8010,3.802686,"Power of One, The (1992)",Drama
+28,8378,3.802686,"Doctor, The (1991)",Drama
+28,61167,3.802686,Henry Poole is Here (2008),Drama|Mystery
+28,2358,3.802686,Savior (1998),Drama|War
+596,3379,4.6265035,On the Beach (1959),Drama
+596,183897,4.4369245,Isle of Dogs (2018),Animation|Comedy
+596,171495,4.4290385,Cosmos,(no genres listed)
+596,7121,4.3816113,Adam's Rib (1949),Comedy|Romance
+596,78836,4.3583894,Enter the Void (2009),Drama
+596,171917,4.309685,Mystère à la Tour Eiffel (2015),Drama|Mystery|Thriller
+596,111913,4.309685,Lilting (2014),Drama
+596,86237,4.307819,Connections (1978),Documentary
+596,184245,4.307819,De platte jungle (1978),Documentary
+596,117531,4.307819,Watermark (2014),Documentary
+332,3379,4.6665287,On the Beach (1959),Drama
+332,171495,4.4304967,Cosmos,(no genres listed)
+332,7121,4.405983,Adam's Rib (1949),Comedy|Romance
+332,183897,4.3276243,Isle of Dogs (2018),Animation|Comedy
+332,78836,4.3245745,Enter the Void (2009),Drama
+332,8477,4.3180013,"Jetée, La (1962)",Romance|Sci-Fi
+332,27156,4.3141327,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+332,27523,4.311256,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+332,26131,4.3053393,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+332,92475,4.296641,All Watched Over by Machines of Loving Grace (2011),Documentary
+606,7121,4.744445,Adam's Rib (1949),Comedy|Romance
+606,3379,4.7255673,On the Beach (1959),Drama
+606,3451,4.6406326,Guess Who's Coming to Dinner (1967),Drama
+606,171495,4.6106224,Cosmos,(no genres listed)
+606,1046,4.5682654,Beautiful Thing (1996),Drama|Romance
+606,92475,4.557396,All Watched Over by Machines of Loving Grace (2011),Documentary
+606,2843,4.5533357,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+606,4495,4.5476832,Crossing Delancey (1988),Comedy|Romance
+606,2295,4.5476832,"Impostors, The (1998)",Comedy
+606,6201,4.5476832,Lady Jane (1986),Drama|Romance
+103,3379,5.072254,On the Beach (1959),Drama
+103,171495,4.9763107,Cosmos,(no genres listed)
+103,183897,4.9231234,Isle of Dogs (2018),Animation|Comedy
+103,26073,4.912264,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+103,86237,4.912264,Connections (1978),Documentary
+103,4708,4.912264,Marat/Sade (1966),Drama|Musical
+103,7071,4.912264,"Woman Under the Influence, A (1974)",Drama
+103,179135,4.912264,Blue Planet II (2017),Documentary
+103,184245,4.912264,De platte jungle (1978),Documentary
+103,117531,4.912264,Watermark (2014),Documentary
+91,3379,4.790376,On the Beach (1959),Drama
+91,3200,4.4689255,"Last Detail, The (1973)",Comedy|Drama
+91,27156,4.460401,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+91,171495,4.4546757,Cosmos,(no genres listed)
+91,7387,4.422721,Dawn of the Dead (1978),Action|Drama|Horror
+91,47404,4.416901,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi
+91,107771,4.416901,Only Lovers Left Alive (2013),Drama|Horror|Romance
+91,96832,4.416901,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi
+91,138632,4.416901,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi
+91,40412,4.416901,Dead Man's Shoes (2004),Crime|Thriller
+222,3379,4.1580772,On the Beach (1959),Drama
+222,171495,4.12206,Cosmos,(no genres listed)
+222,84273,4.0939074,Zeitgeist: Moving Forward (2011),Documentary
+222,4708,4.0939074,Marat/Sade (1966),Drama|Musical
+222,179135,4.0939074,Blue Planet II (2017),Documentary
+222,117531,4.0939074,Watermark (2014),Documentary
+222,134796,4.0939074,Bitter Lake (2015),Documentary
+222,184245,4.0939074,De platte jungle (1978),Documentary
+222,7071,4.0939074,"Woman Under the Influence, A (1974)",Drama
+222,86237,4.0939074,Connections (1978),Documentary
+330,3379,4.6370606,On the Beach (1959),Drama
+330,7121,4.6268086,Adam's Rib (1949),Comedy|Romance
+330,2295,4.6122737,"Impostors, The (1998)",Comedy
+330,4495,4.6122737,Crossing Delancey (1988),Comedy|Romance
+330,6201,4.6122737,Lady Jane (1986),Drama|Romance
+330,183897,4.5297585,Isle of Dogs (2018),Animation|Comedy
+330,6442,4.5241084,Belle époque (1992),Comedy|Romance
+330,171495,4.516162,Cosmos,(no genres listed)
+330,2843,4.5083804,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+330,78836,4.508131,Enter the Void (2009),Drama
+372,3379,4.505537,On the Beach (1959),Drama
+372,60943,4.4020624,Frozen River (2008),Drama
+372,7841,4.4020624,Children of Dune (2003),Fantasy|Sci-Fi
+372,59018,4.4020624,"Visitor, The (2007)",Drama|Romance
+372,3404,4.367292,Titanic (1953),Action|Drama
+372,7121,4.343135,Adam's Rib (1949),Comedy|Romance
+372,1366,4.3193917,"Crucible, The (1996)",Drama
+372,1411,4.315181,Hamlet (1996),Crime|Drama|Romance
+372,170705,4.2959466,Band of Brothers (2001),Action|Drama|War
+372,6442,4.2819858,Belle époque (1992),Comedy|Romance
+122,3379,5.8154674,On the Beach (1959),Drama
+122,171495,5.6245747,Cosmos,(no genres listed)
+122,183897,5.566816,Isle of Dogs (2018),Animation|Comedy
+122,78836,5.553509,Enter the Void (2009),Drama
+122,86237,5.504941,Connections (1978),Documentary
+122,7071,5.504941,"Woman Under the Influence, A (1974)",Drama
+122,4708,5.504941,Marat/Sade (1966),Drama|Musical
+122,184245,5.504941,De platte jungle (1978),Documentary
+122,179135,5.504941,Blue Planet II (2017),Documentary
+122,117531,5.504941,Watermark (2014),Documentary
+232,84273,4.5368924,Zeitgeist: Moving Forward (2011),Documentary
+232,26073,4.5368924,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+232,4708,4.5368924,Marat/Sade (1966),Drama|Musical
+232,179135,4.5368924,Blue Planet II (2017),Documentary
+232,134796,4.5368924,Bitter Lake (2015),Documentary
+232,184245,4.5368924,De platte jungle (1978),Documentary
+232,86237,4.5368924,Connections (1978),Documentary
+232,117531,4.5368924,Watermark (2014),Documentary
+232,7071,4.5368924,"Woman Under the Influence, A (1974)",Drama
+232,74226,4.5368924,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+246,3379,5.243373,On the Beach (1959),Drama
+246,171495,5.1888223,Cosmos,(no genres listed)
+246,84273,5.148103,Zeitgeist: Moving Forward (2011),Documentary
+246,134796,5.148103,Bitter Lake (2015),Documentary
+246,4708,5.148103,Marat/Sade (1966),Drama|Musical
+246,179135,5.148103,Blue Planet II (2017),Documentary
+246,86237,5.148103,Connections (1978),Documentary
+246,184245,5.148103,De platte jungle (1978),Documentary
+246,7071,5.148103,"Woman Under the Influence, A (1974)",Drama
+246,117531,5.148103,Watermark (2014),Documentary
+599,3379,4.247526,On the Beach (1959),Drama
+599,27156,3.9365232,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+599,8477,3.8359847,"Jetée, La (1962)",Romance|Sci-Fi
+599,96004,3.81947,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation
+599,171495,3.8160942,Cosmos,(no genres listed)
+599,68945,3.788395,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),Action|Animation|Mystery|Sci-Fi
+599,7748,3.7769349,Pierrot le fou (1965),Crime|Drama
+599,95771,3.7755795,Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994),Action|Adventure|Animation
+599,80083,3.7755795,Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989),Action|Adventure|Animation|Fantasy|Sci-Fi
+599,95965,3.7755795,Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990),Action|Adventure|Animation
+111,128914,4.8354416,Tom Segura: Completely Normal (2014),Comedy
+111,98083,4.8354416,Jackass 3.5 (2011),Comedy|Documentary
+111,104925,4.6728234,"Family, The (2013)",Action|Comedy|Crime
+111,80139,4.662343,Jackass 2.5 (2007),Comedy|Documentary
+111,160271,4.6318755,Central Intelligence (2016),Action|Comedy
+111,72167,4.5477977,"Boondock Saints II: All Saints Day, The (2009)",Action|Crime|Drama|Thriller
+111,111617,4.4728956,Blended (2014),Comedy
+111,183897,4.4632854,Isle of Dogs (2018),Animation|Comedy
+111,85367,4.448762,Just Go with It (2011),Comedy|Romance
+111,128520,4.419677,The Wedding Ringer (2015),Comedy
+140,3404,4.4864335,Titanic (1953),Action|Drama
+140,7121,4.480957,Adam's Rib (1949),Comedy|Romance
+140,1727,4.410995,"Horse Whisperer, The (1998)",Drama|Romance
+140,7706,4.3260064,Animal Crackers (1930),Comedy|Musical
+140,3086,4.322497,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+140,93008,4.3163466,"Very Potter Sequel, A (2010)",Comedy|Musical
+140,25906,4.3163466,Mr. Skeffington (1944),Drama|Romance
+140,7841,4.3079686,Children of Dune (2003),Fantasy|Sci-Fi
+140,60943,4.3079686,Frozen River (2008),Drama
+140,59018,4.3079686,"Visitor, The (2007)",Drama|Romance
+177,7121,4.834141,Adam's Rib (1949),Comedy|Romance
+177,93008,4.8149424,"Very Potter Sequel, A (2010)",Comedy|Musical
+177,25906,4.8149424,Mr. Skeffington (1944),Drama|Romance
+177,3451,4.5945992,Guess Who's Coming to Dinner (1967),Drama
+177,183897,4.568181,Isle of Dogs (2018),Animation|Comedy
+177,1046,4.5111365,Beautiful Thing (1996),Drama|Romance
+177,62293,4.499163,"Duchess, The (2008)",Drama|Romance
+177,1411,4.381774,Hamlet (1996),Crime|Drama|Romance
+177,38304,4.3804703,No Direction Home: Bob Dylan (2005),Documentary
+177,928,4.3612113,Rebecca (1940),Drama|Mystery|Romance|Thriller
+132,183897,3.9410214,Isle of Dogs (2018),Animation|Comedy
+132,7121,3.8818932,Adam's Rib (1949),Comedy|Romance
+132,3379,3.8462365,On the Beach (1959),Drama
+132,171495,3.8346817,Cosmos,(no genres listed)
+132,134796,3.821069,Bitter Lake (2015),Documentary
+132,7071,3.821069,"Woman Under the Influence, A (1974)",Drama
+132,184245,3.821069,De platte jungle (1978),Documentary
+132,4708,3.821069,Marat/Sade (1966),Drama|Musical
+132,117531,3.821069,Watermark (2014),Documentary
+132,86237,3.821069,Connections (1978),Documentary
+305,3379,5.0222616,On the Beach (1959),Drama
+305,3404,4.892021,Titanic (1953),Action|Drama
+305,74510,4.8608074,"Girl Who Played with Fire, The (Flickan som lekte med elden) (2009)",Action|Crime|Drama|Mystery|Thriller
+305,6818,4.847488,Come and See (Idi i smotri) (1985),Drama|War
+305,158027,4.847488,SORI: Voice from the Heart (2016),Drama|Sci-Fi
+305,64501,4.847488,Che: Part Two (2008),Drama|War
+305,64499,4.847488,Che: Part One (2008),Drama|War
+305,105585,4.847488,Machete Kills (Machete 2) (2013),Action|Crime|Thriller
+305,140627,4.847488,Battle For Sevastopol (2015),Drama|Romance|War
+305,3200,4.8454385,"Last Detail, The (1973)",Comedy|Drama
+325,3379,4.8928556,On the Beach (1959),Drama
+325,8477,4.7374616,"Jetée, La (1962)",Romance|Sci-Fi
+325,27156,4.666071,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+325,2239,4.662843,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama
+325,3468,4.6478662,"Hustler, The (1961)",Drama
+325,92475,4.620863,All Watched Over by Machines of Loving Grace (2011),Documentary
+325,1251,4.606692,8 1/2 (8½) (1963),Drama|Fantasy
+325,3435,4.5765963,Double Indemnity (1944),Crime|Drama|Film-Noir
+325,96004,4.575774,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation
+325,3415,4.5664263,"Mirror, The (Zerkalo) (1975)",Drama
+603,8477,5.2523766,"Jetée, La (1962)",Romance|Sci-Fi
+603,148881,5.009189,World of Tomorrow (2015),Animation|Comedy
+603,40491,5.0073657,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama
+603,25771,4.9529257,"Andalusian Dog, An (Chien andalou, Un) (1929)",Fantasy
+603,2068,4.843023,Fanny and Alexander (Fanny och Alexander) (1982),Drama|Fantasy|Mystery
+603,2512,4.843023,"Ballad of Narayama, The (Narayama bushiko) (1983)",Drama
+603,3531,4.843023,All the Vermeers in New York (1990),Comedy|Drama|Romance
+603,3792,4.843023,Duel in the Sun (1946),Drama|Romance|Western
+603,1437,4.843023,"Cement Garden, The (1993)",Drama
+603,506,4.843023,Orlando (1992),Drama|Fantasy|Romance
+1,3379,5.6596465,On the Beach (1959),Drama
+1,171495,5.5848684,Cosmos,(no genres listed)
+1,5490,5.582294,The Big Bus (1976),Action|Comedy
+1,179135,5.5318403,Blue Planet II (2017),Documentary
+1,86237,5.5318403,Connections (1978),Documentary
+1,4708,5.5318403,Marat/Sade (1966),Drama|Musical
+1,117531,5.5318403,Watermark (2014),Documentary
+1,134796,5.5318403,Bitter Lake (2015),Documentary
+1,7071,5.5318403,"Woman Under the Influence, A (1974)",Drama
+1,184245,5.5318403,De platte jungle (1978),Documentary
+212,183897,4.643174,Isle of Dogs (2018),Animation|Comedy
+212,177593,4.3789415,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama
+212,174909,4.3025355,Logan Lucky (2017),Comedy
+212,188751,4.3025355,Mamma Mia: Here We Go Again! (2018),Comedy|Romance
+212,170697,4.3025355,Gifted (2017),Drama
+212,171495,4.2952414,Cosmos,(no genres listed)
+212,117531,4.290383,Watermark (2014),Documentary
+212,86237,4.290383,Connections (1978),Documentary
+212,184245,4.290383,De platte jungle (1978),Documentary
+212,179135,4.290383,Blue Planet II (2017),Documentary
+274,3379,4.467981,On the Beach (1959),Drama
+274,171495,4.4399114,Cosmos,(no genres listed)
+274,78836,4.433632,Enter the Void (2009),Drama
+274,74226,4.4157314,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+274,184245,4.4157314,De platte jungle (1978),Documentary
+274,179135,4.4157314,Blue Planet II (2017),Documentary
+274,7071,4.4157314,"Woman Under the Influence, A (1974)",Drama
+274,86237,4.4157314,Connections (1978),Documentary
+274,4708,4.4157314,Marat/Sade (1966),Drama|Musical
+274,117531,4.4157314,Watermark (2014),Documentary
+182,6192,4.8238935,Open Hearts (Elsker dig for evigt) (2002),Romance
+182,3379,4.7003407,On the Beach (1959),Drama
+182,2843,4.6068187,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+182,7121,4.5814023,Adam's Rib (1949),Comedy|Romance
+182,92475,4.581364,All Watched Over by Machines of Loving Grace (2011),Documentary
+182,5379,4.5725,"Believer, The (2001)",Drama
+182,3451,4.523367,Guess Who's Coming to Dinner (1967),Drama
+182,171495,4.511363,Cosmos,(no genres listed)
+182,8477,4.48886,"Jetée, La (1962)",Romance|Sci-Fi
+182,3415,4.480258,"Mirror, The (Zerkalo) (1975)",Drama
+6,232,4.874134,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+6,67618,4.859966,Strictly Sexual (2008),Comedy|Drama|Romance
+6,7121,4.8265815,Adam's Rib (1949),Comedy|Romance
+6,3404,4.8162303,Titanic (1953),Action|Drama
+6,74282,4.8030334,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+6,26528,4.8030334,Anne of Green Gables (1985),Children|Drama
+6,25906,4.66479,Mr. Skeffington (1944),Drama|Romance
+6,93008,4.66479,"Very Potter Sequel, A (2010)",Comedy|Musical
+6,3086,4.6261435,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+6,38304,4.615786,No Direction Home: Bob Dylan (2005),Documentary
+474,4495,4.8032055,Crossing Delancey (1988),Comedy|Romance
+474,6201,4.8032055,Lady Jane (1986),Drama|Romance
+474,2295,4.8032055,"Impostors, The (1998)",Comedy
+474,7121,4.7567596,Adam's Rib (1949),Comedy|Romance
+474,8235,4.5732703,Safety Last! (1923),Action|Comedy|Romance
+474,43376,4.5484324,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War
+474,3379,4.4638515,On the Beach (1959),Drama
+474,8477,4.421987,"Jetée, La (1962)",Romance|Sci-Fi
+474,906,4.380825,Gaslight (1944),Drama|Thriller
+474,1046,4.37471,Beautiful Thing (1996),Drama|Romance
+328,3379,4.2106776,On the Beach (1959),Drama
+328,2788,4.1464243,Monty Python's And Now for Something Completely Different (1971),Comedy
+328,4495,4.08033,Crossing Delancey (1988),Comedy|Romance
+328,2295,4.08033,"Impostors, The (1998)",Comedy
+328,6201,4.08033,Lady Jane (1986),Drama|Romance
+328,3983,4.049515,You Can Count on Me (2000),Drama|Romance
+328,953,4.0069256,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance
+328,6807,3.9807928,Monty Python's The Meaning of Life (1983),Comedy
+328,27156,3.9670346,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+328,6442,3.9564059,Belle époque (1992),Comedy|Romance
+20,7121,5.0953307,Adam's Rib (1949),Comedy|Romance
+20,3379,5.0866017,On the Beach (1959),Drama
+20,3451,5.0401473,Guess Who's Coming to Dinner (1967),Drama
+20,5490,5.0143414,The Big Bus (1976),Action|Comedy
+20,92475,4.989588,All Watched Over by Machines of Loving Grace (2011),Documentary
+20,2843,4.989552,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+20,1411,4.966801,Hamlet (1996),Crime|Drama|Romance
+20,4973,4.9656725,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+20,5915,4.9653015,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+20,26326,4.9383545,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+169,7121,5.569265,Adam's Rib (1949),Comedy|Romance
+169,183897,5.4290767,Isle of Dogs (2018),Animation|Comedy
+169,134796,5.415821,Bitter Lake (2015),Documentary
+169,184245,5.415821,De platte jungle (1978),Documentary
+169,7071,5.415821,"Woman Under the Influence, A (1974)",Drama
+169,86237,5.415821,Connections (1978),Documentary
+169,4708,5.415821,Marat/Sade (1966),Drama|Musical
+169,117531,5.415821,Watermark (2014),Documentary
+169,179135,5.415821,Blue Planet II (2017),Documentary
+169,84273,5.415821,Zeitgeist: Moving Forward (2011),Documentary
+432,7121,4.5569296,Adam's Rib (1949),Comedy|Romance
+432,26073,4.510646,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+432,179135,4.510646,Blue Planet II (2017),Documentary
+432,134796,4.510646,Bitter Lake (2015),Documentary
+432,86237,4.510646,Connections (1978),Documentary
+432,4708,4.510646,Marat/Sade (1966),Drama|Musical
+432,7071,4.510646,"Woman Under the Influence, A (1974)",Drama
+432,117531,4.510646,Watermark (2014),Documentary
+432,184245,4.510646,De platte jungle (1978),Documentary
+432,74226,4.510646,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+57,3379,4.8529916,On the Beach (1959),Drama
+57,27156,4.630629,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+57,5490,4.5335407,The Big Bus (1976),Action|Comedy
+57,8477,4.51194,"Jetée, La (1962)",Romance|Sci-Fi
+57,3334,4.461802,Key Largo (1948),Crime|Drama|Film-Noir|Thriller
+57,3022,4.460743,"General, The (1926)",Comedy|War
+57,1411,4.459336,Hamlet (1996),Crime|Drama|Romance
+57,3066,4.457448,Tora! Tora! Tora! (1970),Action|Drama|War
+57,6442,4.4526896,Belle époque (1992),Comedy|Romance
+57,5915,4.4404674,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+292,3086,4.8153157,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+292,3404,4.6182685,Titanic (1953),Action|Drama
+292,67618,4.4372625,Strictly Sexual (2008),Comedy|Drama|Romance
+292,7121,4.4337907,Adam's Rib (1949),Comedy|Romance
+292,25906,4.292054,Mr. Skeffington (1944),Drama|Romance
+292,93008,4.292054,"Very Potter Sequel, A (2010)",Comedy|Musical
+292,232,4.243204,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+292,26528,4.2313886,Anne of Green Gables (1985),Children|Drama
+292,74282,4.2313886,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+292,1046,4.195058,Beautiful Thing (1996),Drama|Romance
+339,3379,4.9331555,On the Beach (1959),Drama
+339,171495,4.9150662,Cosmos,(no genres listed)
+339,74226,4.895739,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+339,134796,4.895739,Bitter Lake (2015),Documentary
+339,184245,4.895739,De platte jungle (1978),Documentary
+339,86237,4.895739,Connections (1978),Documentary
+339,4708,4.895739,Marat/Sade (1966),Drama|Musical
+339,7071,4.895739,"Woman Under the Influence, A (1974)",Drama
+339,117531,4.895739,Watermark (2014),Documentary
+339,179135,4.895739,Blue Planet II (2017),Documentary
+452,26073,5.856744,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+452,84273,5.856744,Zeitgeist: Moving Forward (2011),Documentary
+452,86237,5.856744,Connections (1978),Documentary
+452,184245,5.856744,De platte jungle (1978),Documentary
+452,134796,5.856744,Bitter Lake (2015),Documentary
+452,7071,5.856744,"Woman Under the Influence, A (1974)",Drama
+452,117531,5.856744,Watermark (2014),Documentary
+452,179135,5.856744,Blue Planet II (2017),Documentary
+452,4708,5.856744,Marat/Sade (1966),Drama|Musical
+452,74226,5.856744,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+19,3379,4.08108,On the Beach (1959),Drama
+19,3358,3.9197524,Defending Your Life (1991),Comedy|Drama|Fantasy|Romance
+19,27156,3.843331,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+19,3056,3.803802,Oxygen (1999),Crime|Drama|Thriller
+19,2037,3.803802,Candleshoe (1977),Adventure|Children|Comedy
+19,26326,3.7503395,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+19,7748,3.6981168,Pierrot le fou (1965),Crime|Drama
+19,96004,3.6878004,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation
+19,171495,3.6505704,Cosmos,(no genres listed)
+19,8477,3.6460826,"Jetée, La (1962)",Romance|Sci-Fi
+560,3379,4.695106,On the Beach (1959),Drama
+560,171495,4.535981,Cosmos,(no genres listed)
+560,78836,4.477913,Enter the Void (2009),Drama
+560,134796,4.436534,Bitter Lake (2015),Documentary
+560,86237,4.436534,Connections (1978),Documentary
+560,7071,4.436534,"Woman Under the Influence, A (1974)",Drama
+560,184245,4.436534,De platte jungle (1978),Documentary
+560,4708,4.436534,Marat/Sade (1966),Drama|Musical
+560,117531,4.436534,Watermark (2014),Documentary
+560,179135,4.436534,Blue Planet II (2017),Documentary
+64,3379,5.036962,On the Beach (1959),Drama
+64,8477,4.894885,"Jetée, La (1962)",Romance|Sci-Fi
+64,27523,4.815727,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+64,5490,4.7790556,The Big Bus (1976),Action|Comedy
+64,171495,4.7688885,Cosmos,(no genres listed)
+64,183897,4.7443123,Isle of Dogs (2018),Animation|Comedy
+64,7121,4.7298775,Adam's Rib (1949),Comedy|Romance
+64,27156,4.7054996,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+64,5915,4.697274,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+64,78836,4.677059,Enter the Void (2009),Drama
+41,116897,4.510889,Wild Tales (2014),Comedy|Drama|Thriller
+41,104879,4.328803,Prisoners (2013),Drama|Mystery|Thriller
+41,6201,4.100583,Lady Jane (1986),Drama|Romance
+41,4495,4.100583,Crossing Delancey (1988),Comedy|Romance
+41,2295,4.100583,"Impostors, The (1998)",Comedy
+41,7121,4.076626,Adam's Rib (1949),Comedy|Romance
+41,6460,4.0512705,"Trial, The (Procès, Le) (1962)",Drama
+41,4708,4.02812,Marat/Sade (1966),Drama|Musical
+41,86237,4.02812,Connections (1978),Documentary
+41,7071,4.02812,"Woman Under the Influence, A (1974)",Drama
+425,26073,4.540046,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+425,134796,4.540046,Bitter Lake (2015),Documentary
+425,4708,4.540046,Marat/Sade (1966),Drama|Musical
+425,184245,4.540046,De platte jungle (1978),Documentary
+425,74226,4.540046,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+425,7071,4.540046,"Woman Under the Influence, A (1974)",Drama
+425,86237,4.540046,Connections (1978),Documentary
+425,179135,4.540046,Blue Planet II (2017),Documentary
+425,117531,4.540046,Watermark (2014),Documentary
+425,84273,4.540046,Zeitgeist: Moving Forward (2011),Documentary
+484,5490,5.078761,The Big Bus (1976),Action|Comedy
+484,5915,4.946723,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+484,134796,4.8864965,Bitter Lake (2015),Documentary
+484,86237,4.8864965,Connections (1978),Documentary
+484,179135,4.8864965,Blue Planet II (2017),Documentary
+484,4708,4.8864965,Marat/Sade (1966),Drama|Musical
+484,138966,4.8864965,Nasu: Summer in Andalusia (2003),Animation
+484,184245,4.8864965,De platte jungle (1978),Documentary
+484,7071,4.8864965,"Woman Under the Influence, A (1974)",Drama
+484,117531,4.8864965,Watermark (2014),Documentary
+563,7121,4.4634,Adam's Rib (1949),Comedy|Romance
+563,6732,4.3753686,"Hello, Dolly! (1969)",Comedy|Musical|Romance
+563,183897,4.283304,Isle of Dogs (2018),Animation|Comedy
+563,3451,4.278253,Guess Who's Coming to Dinner (1967),Drama
+563,86237,4.2721534,Connections (1978),Documentary
+563,179135,4.2721534,Blue Planet II (2017),Documentary
+563,184245,4.2721534,De platte jungle (1978),Documentary
+563,4708,4.2721534,Marat/Sade (1966),Drama|Musical
+563,7071,4.2721534,"Woman Under the Influence, A (1974)",Drama
+563,117531,4.2721534,Watermark (2014),Documentary
+489,27803,4.6059594,"Sea Inside, The (Mar adentro) (2004)",Drama
+489,971,4.455641,Cat on a Hot Tin Roof (1958),Drama
+489,918,4.358158,Meet Me in St. Louis (1944),Musical
+489,89118,4.3483644,"Skin I Live In, The (La piel que habito) (2011)",Drama
+489,7121,4.2595687,Adam's Rib (1949),Comedy|Romance
+489,1172,4.251413,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama
+489,3379,4.22962,On the Beach (1959),Drama
+489,3451,4.1939297,Guess Who's Coming to Dinner (1967),Drama
+489,183897,4.1738205,Isle of Dogs (2018),Animation|Comedy
+489,38304,4.149863,No Direction Home: Bob Dylan (2005),Documentary
+590,3379,4.59607,On the Beach (1959),Drama
+590,7121,4.372523,Adam's Rib (1949),Comedy|Romance
+590,27156,4.2879715,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+590,27523,4.2618556,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+590,1262,4.2572455,"Great Escape, The (1963)",Action|Adventure|Drama|War
+590,5490,4.253934,The Big Bus (1976),Action|Comedy
+590,4495,4.2464824,Crossing Delancey (1988),Comedy|Romance
+590,2295,4.2464824,"Impostors, The (1998)",Comedy
+590,6201,4.2464824,Lady Jane (1986),Drama|Romance
+590,171495,4.23348,Cosmos,(no genres listed)
+318,134796,4.8059707,Bitter Lake (2015),Documentary
+318,74226,4.8059707,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+318,4708,4.8059707,Marat/Sade (1966),Drama|Musical
+318,26073,4.8059707,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+318,86237,4.8059707,Connections (1978),Documentary
+318,117531,4.8059707,Watermark (2014),Documentary
+318,7071,4.8059707,"Woman Under the Influence, A (1974)",Drama
+318,179135,4.8059707,Blue Planet II (2017),Documentary
+318,184245,4.8059707,De platte jungle (1978),Documentary
+318,84273,4.8059707,Zeitgeist: Moving Forward (2011),Documentary
+462,167064,4.8173375,I Am Not Your Negro (2017),Documentary
+462,162414,4.8173375,Moonlight,Drama
+462,160644,4.8173375,Indignation (2016),Drama
+462,26131,4.772263,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+462,32582,4.7611485,"Wild Parrots of Telegraph Hill, The (2003)",Documentary
+462,73344,4.713948,"Prophet, A (Un Prophète) (2009)",Crime|Drama
+462,89759,4.711404,"Separation, A (Jodaeiye Nader az Simin) (2011)",Drama
+462,83827,4.657,Marwencol (2010),Documentary
+462,1241,4.5231667,Dead Alive (Braindead) (1992),Comedy|Fantasy|Horror
+462,3468,4.418579,"Hustler, The (1961)",Drama
+202,3379,5.125155,On the Beach (1959),Drama
+202,171495,4.83089,Cosmos,(no genres listed)
+202,27156,4.7855425,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+202,5490,4.708238,The Big Bus (1976),Action|Comedy
+202,92475,4.6981945,All Watched Over by Machines of Loving Grace (2011),Documentary
+202,78836,4.6958423,Enter the Void (2009),Drama
+202,3468,4.6909003,"Hustler, The (1961)",Drama
+202,27523,4.69067,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+202,6442,4.686842,Belle époque (1992),Comedy|Romance
+202,26131,4.655805,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+263,7121,4.8740807,Adam's Rib (1949),Comedy|Romance
+263,3379,4.7245455,On the Beach (1959),Drama
+263,4495,4.701911,Crossing Delancey (1988),Comedy|Romance
+263,6201,4.701911,Lady Jane (1986),Drama|Romance
+263,2295,4.701911,"Impostors, The (1998)",Comedy
+263,171495,4.5780454,Cosmos,(no genres listed)
+263,3451,4.5777507,Guess Who's Coming to Dinner (1967),Drama
+263,183897,4.5682373,Isle of Dogs (2018),Animation|Comedy
+263,43376,4.5316625,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War
+263,78836,4.5145206,Enter the Void (2009),Drama
+586,84273,5.3417935,Zeitgeist: Moving Forward (2011),Documentary
+586,134796,5.3417935,Bitter Lake (2015),Documentary
+586,184245,5.3417935,De platte jungle (1978),Documentary
+586,86237,5.3417935,Connections (1978),Documentary
+586,26073,5.3417935,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+586,7071,5.3417935,"Woman Under the Influence, A (1974)",Drama
+586,179135,5.3417935,Blue Planet II (2017),Documentary
+586,117531,5.3417935,Watermark (2014),Documentary
+586,4708,5.3417935,Marat/Sade (1966),Drama|Musical
+586,74226,5.3417935,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+387,3379,4.3264484,On the Beach (1959),Drama
+387,4298,4.3013797,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller
+387,4393,4.3013797,Another Woman (1988),Drama
+387,6533,4.3013797,"What's Up, Doc? (1972)",Comedy
+387,7939,4.3013797,Through a Glass Darkly (Såsom i en spegel) (1961),Drama
+387,8477,4.262707,"Jetée, La (1962)",Romance|Sci-Fi
+387,92475,4.2063303,All Watched Over by Machines of Loving Grace (2011),Documentary
+387,6666,4.195344,"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le) (1972)",Comedy|Drama|Fantasy
+387,1251,4.169243,8 1/2 (8½) (1963),Drama|Fantasy
+387,296,4.168022,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+381,7121,4.8120756,Adam's Rib (1949),Comedy|Romance
+381,183897,4.6468673,Isle of Dogs (2018),Animation|Comedy
+381,1046,4.566645,Beautiful Thing (1996),Drama|Romance
+381,74226,4.526972,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+381,179135,4.526972,Blue Planet II (2017),Documentary
+381,7071,4.526972,"Woman Under the Influence, A (1974)",Drama
+381,86237,4.526972,Connections (1978),Documentary
+381,184245,4.526972,De platte jungle (1978),Documentary
+381,117531,4.526972,Watermark (2014),Documentary
+381,4708,4.526972,Marat/Sade (1966),Drama|Musical
+594,3404,5.606662,Titanic (1953),Action|Drama
+594,67618,5.5958505,Strictly Sexual (2008),Comedy|Drama|Romance
+594,3086,5.380467,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+594,42730,5.36884,Glory Road (2006),Drama
+594,157296,5.3201838,Finding Dory (2016),Adventure|Animation|Comedy
+594,86320,5.3134623,Melancholia (2011),Drama|Sci-Fi
+594,232,5.259518,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+594,86237,5.230813,Connections (1978),Documentary
+594,117531,5.230813,Watermark (2014),Documentary
+594,7071,5.230813,"Woman Under the Influence, A (1974)",Drama
+610,3379,5.2190967,On the Beach (1959),Drama
+610,8477,4.9877787,"Jetée, La (1962)",Romance|Sci-Fi
+610,171495,4.9185586,Cosmos,(no genres listed)
+610,27156,4.9083405,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+610,78836,4.88538,Enter the Void (2009),Drama
+610,96832,4.8279104,Holy Motors (2012),Drama|Fantasy|Musical|Mystery|Sci-Fi
+610,107771,4.8279104,Only Lovers Left Alive (2013),Drama|Horror|Romance
+610,47404,4.8279104,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi
+610,138632,4.8279104,Tokyo Tribe (2014),Action|Crime|Drama|Sci-Fi
+610,40412,4.8279104,Dead Man's Shoes (2004),Crime|Thriller
+217,3404,4.7718205,Titanic (1953),Action|Drama
+217,3200,4.2412124,"Last Detail, The (1973)",Comedy|Drama
+217,3379,3.8531177,On the Beach (1959),Drama
+217,232,3.7918918,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+217,7121,3.790439,Adam's Rib (1949),Comedy|Romance
+217,1081,3.7559474,Victor/Victoria (1982),Comedy|Musical|Romance
+217,3086,3.7258506,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+217,3347,3.7035651,Never Cry Wolf (1983),Adventure|Drama
+217,1046,3.6902277,Beautiful Thing (1996),Drama|Romance
+217,171495,3.6705914,Cosmos,(no genres listed)
+290,3379,5.1974783,On the Beach (1959),Drama
+290,7121,5.0130067,Adam's Rib (1949),Comedy|Romance
+290,8477,4.9724946,"Jetée, La (1962)",Romance|Sci-Fi
+290,5490,4.9705224,The Big Bus (1976),Action|Comedy
+290,2295,4.916803,"Impostors, The (1998)",Comedy
+290,6201,4.916803,Lady Jane (1986),Drama|Romance
+290,4495,4.916803,Crossing Delancey (1988),Comedy|Romance
+290,26131,4.912182,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+290,27523,4.894977,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+290,5915,4.8939424,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+307,51931,4.192243,Reign Over Me (2007),Drama
+307,183897,4.0096145,Isle of Dogs (2018),Animation|Comedy
+307,27555,3.9769397,Fubar (2002),Comedy
+307,3379,3.9542532,On the Beach (1959),Drama
+307,171495,3.9269423,Cosmos,(no genres listed)
+307,4708,3.9041333,Marat/Sade (1966),Drama|Musical
+307,179135,3.9041333,Blue Planet II (2017),Documentary
+307,7071,3.9041333,"Woman Under the Influence, A (1974)",Drama
+307,117531,3.9041333,Watermark (2014),Documentary
+307,184245,3.9041333,De platte jungle (1978),Documentary
+220,3379,5.1474957,On the Beach (1959),Drama
+220,3404,4.983655,Titanic (1953),Action|Drama
+220,7121,4.8889976,Adam's Rib (1949),Comedy|Romance
+220,7706,4.8781905,Animal Crackers (1930),Comedy|Musical
+220,59018,4.840613,"Visitor, The (2007)",Drama|Romance
+220,60943,4.840613,Frozen River (2008),Drama
+220,7841,4.840613,Children of Dune (2003),Fantasy|Sci-Fi
+220,5490,4.8372297,The Big Bus (1976),Action|Comedy
+220,171495,4.833908,Cosmos,(no genres listed)
+220,27156,4.8242154,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+4,3851,4.851076,I'm the One That I Want (2000),Comedy
+4,1046,4.729497,Beautiful Thing (1996),Drama|Romance
+4,1262,4.724796,"Great Escape, The (1963)",Action|Adventure|Drama|War
+4,25825,4.7231793,Fury (1936),Drama|Film-Noir
+4,4765,4.710532,L.I.E. (2001),Drama
+4,2204,4.6843266,Saboteur (1942),Mystery|Thriller
+4,2843,4.656113,"Black Cat, White Cat (Crna macka, beli macor) (1998)",Comedy|Romance
+4,2583,4.6525903,Cookie's Fortune (1999),Comedy|Drama
+4,2390,4.627098,Little Voice (1998),Comedy
+4,3089,4.5953336,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama
+495,3379,5.332591,On the Beach (1959),Drama
+495,183897,5.282317,Isle of Dogs (2018),Animation|Comedy
+495,171495,5.195484,Cosmos,(no genres listed)
+495,74226,5.1074514,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+495,86237,5.1074514,Connections (1978),Documentary
+495,184245,5.1074514,De platte jungle (1978),Documentary
+495,179135,5.1074514,Blue Planet II (2017),Documentary
+495,4708,5.1074514,Marat/Sade (1966),Drama|Musical
+495,117531,5.1074514,Watermark (2014),Documentary
+495,7071,5.1074514,"Woman Under the Influence, A (1974)",Drama
+555,26073,4.8559017,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+555,84273,4.8559017,Zeitgeist: Moving Forward (2011),Documentary
+555,134796,4.8559017,Bitter Lake (2015),Documentary
+555,184245,4.8559017,De platte jungle (1978),Documentary
+555,86237,4.8559017,Connections (1978),Documentary
+555,4708,4.8559017,Marat/Sade (1966),Drama|Musical
+555,179135,4.8559017,Blue Planet II (2017),Documentary
+555,117531,4.8559017,Watermark (2014),Documentary
+555,7071,4.8559017,"Woman Under the Influence, A (1974)",Drama
+555,74226,4.8559017,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+380,3379,5.342505,On the Beach (1959),Drama
+380,171495,5.0648413,Cosmos,(no genres listed)
+380,183897,4.966254,Isle of Dogs (2018),Animation|Comedy
+380,78836,4.9622097,Enter the Void (2009),Drama
+380,3200,4.9454646,"Last Detail, The (1973)",Comedy|Drama
+380,7071,4.896509,"Woman Under the Influence, A (1974)",Drama
+380,184245,4.896509,De platte jungle (1978),Documentary
+380,4708,4.896509,Marat/Sade (1966),Drama|Musical
+380,179135,4.896509,Blue Planet II (2017),Documentary
+380,117531,4.896509,Watermark (2014),Documentary
+514,3379,4.593792,On the Beach (1959),Drama
+514,7121,4.536464,Adam's Rib (1949),Comedy|Romance
+514,3404,4.4445133,Titanic (1953),Action|Drama
+514,1411,4.3864937,Hamlet (1996),Crime|Drama|Romance
+514,183897,4.3705997,Isle of Dogs (2018),Animation|Comedy
+514,171495,4.366823,Cosmos,(no genres listed)
+514,4495,4.3442125,Crossing Delancey (1988),Comedy|Romance
+514,6201,4.3442125,Lady Jane (1986),Drama|Romance
+514,2295,4.3442125,"Impostors, The (1998)",Comedy
+514,3200,4.340118,"Last Detail, The (1973)",Comedy|Drama
+84,7121,4.658318,Adam's Rib (1949),Comedy|Romance
+84,5490,4.6317625,The Big Bus (1976),Action|Comedy
+84,5915,4.566997,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+84,299,4.5490203,Priest (1994),Drama
+84,3379,4.5461545,On the Beach (1959),Drama
+84,1131,4.54,Jean de Florette (1986),Drama|Mystery
+84,27523,4.527379,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+84,4495,4.519482,Crossing Delancey (1988),Comedy|Romance
+84,2295,4.519482,"Impostors, The (1998)",Comedy
+84,6201,4.519482,Lady Jane (1986),Drama|Romance
+453,3379,5.2625504,On the Beach (1959),Drama
+453,171495,5.125929,Cosmos,(no genres listed)
+453,183897,5.0854907,Isle of Dogs (2018),Animation|Comedy
+453,5490,5.0383253,The Big Bus (1976),Action|Comedy
+453,179135,5.0382986,Blue Planet II (2017),Documentary
+453,4708,5.0382986,Marat/Sade (1966),Drama|Musical
+453,7071,5.0382986,"Woman Under the Influence, A (1974)",Drama
+453,86237,5.0382986,Connections (1978),Documentary
+453,184245,5.0382986,De platte jungle (1978),Documentary
+453,117531,5.0382986,Watermark (2014),Documentary
+434,3379,5.1073008,On the Beach (1959),Drama
+434,8477,4.913821,"Jetée, La (1962)",Romance|Sci-Fi
+434,27156,4.8603625,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+434,3030,4.7437263,Yojimbo (1961),Action|Adventure
+434,26326,4.694678,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+434,183897,4.6800284,Isle of Dogs (2018),Animation|Comedy
+434,171495,4.657476,Cosmos,(no genres listed)
+434,92475,4.640257,All Watched Over by Machines of Loving Grace (2011),Documentary
+434,96004,4.6320257,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation
+434,3468,4.628276,"Hustler, The (1961)",Drama
+51,3379,5.0769005,On the Beach (1959),Drama
+51,8477,5.0124507,"Jetée, La (1962)",Romance|Sci-Fi
+51,5490,4.9388666,The Big Bus (1976),Action|Comedy
+51,26326,4.9330935,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+51,2290,4.900789,Stardust Memories (1980),Comedy|Drama
+51,6442,4.861477,Belle époque (1992),Comedy|Romance
+51,7706,4.8483725,Animal Crackers (1930),Comedy|Musical
+51,5915,4.8214526,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+51,7983,4.8038254,Broadway Danny Rose (1984),Comedy
+51,3814,4.7977033,Love and Death (1975),Comedy
+428,78836,3.6901243,Enter the Void (2009),Drama
+428,4298,3.686707,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller
+428,4393,3.686707,Another Woman (1988),Drama
+428,6533,3.686707,"What's Up, Doc? (1972)",Comedy
+428,7939,3.686707,Through a Glass Darkly (Såsom i en spegel) (1961),Drama
+428,3379,3.684918,On the Beach (1959),Drama
+428,1274,3.6617398,Akira (1988),Action|Adventure|Animation|Sci-Fi
+428,171495,3.6495054,Cosmos,(no genres listed)
+428,26131,3.6231658,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+428,117531,3.6225593,Watermark (2014),Documentary
+391,8477,4.9012604,"Jetée, La (1962)",Romance|Sci-Fi
+391,1262,4.859401,"Great Escape, The (1963)",Action|Adventure|Drama|War
+391,5537,4.8438272,Satin Rouge (2002),Drama|Musical
+391,3379,4.789304,On the Beach (1959),Drama
+391,4406,4.766392,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western
+391,1131,4.7207174,Jean de Florette (1986),Drama|Mystery
+391,1178,4.7165976,Paths of Glory (1957),Drama|War
+391,1150,4.7165813,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",Drama
+391,4278,4.703729,Triumph of the Will (Triumph des Willens) (1934),Documentary
+391,27156,4.7027903,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+438,3404,4.780692,Titanic (1953),Action|Drama
+438,3379,4.7050123,On the Beach (1959),Drama
+438,3200,4.5680485,"Last Detail, The (1973)",Comedy|Drama
+438,171495,4.567209,Cosmos,(no genres listed)
+438,78836,4.54089,Enter the Void (2009),Drama
+438,117531,4.47992,Watermark (2014),Documentary
+438,179135,4.47992,Blue Planet II (2017),Documentary
+438,184245,4.47992,De platte jungle (1978),Documentary
+438,86237,4.47992,Connections (1978),Documentary
+438,7071,4.47992,"Woman Under the Influence, A (1974)",Drama
+448,5490,4.7913914,The Big Bus (1976),Action|Comedy
+448,5915,4.64033,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+448,8542,4.534779,"Day at the Races, A (1937)",Comedy|Musical
+448,6375,4.409777,Gigantic (A Tale of Two Johns) (2002),Documentary
+448,3379,4.3888965,On the Beach (1959),Drama
+448,152105,4.3122525,Dad's Army (1971),Comedy
+448,183897,4.2725096,Isle of Dogs (2018),Animation|Comedy
+448,7706,4.267914,Animal Crackers (1930),Comedy|Musical
+448,27523,4.2416744,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+448,3508,4.225007,"Outlaw Josey Wales, The (1976)",Action|Adventure|Drama|Thriller|Western
+234,7121,5.1917605,Adam's Rib (1949),Comedy|Romance
+234,26528,5.062957,Anne of Green Gables (1985),Children|Drama
+234,74282,5.062957,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+234,3379,4.99723,On the Beach (1959),Drama
+234,183897,4.938497,Isle of Dogs (2018),Animation|Comedy
+234,38304,4.921918,No Direction Home: Bob Dylan (2005),Documentary
+234,3451,4.9165525,Guess Who's Coming to Dinner (1967),Drama
+234,93008,4.8853,"Very Potter Sequel, A (2010)",Comedy|Musical
+234,25906,4.8853,Mr. Skeffington (1944),Drama|Romance
+234,142115,4.8801856,The Blue Planet (2001),Documentary
+239,3379,5.0965624,On the Beach (1959),Drama
+239,171495,5.031463,Cosmos,(no genres listed)
+239,78836,5.0038533,Enter the Void (2009),Drama
+239,183897,4.997713,Isle of Dogs (2018),Animation|Comedy
+239,86237,4.984988,Connections (1978),Documentary
+239,117531,4.984988,Watermark (2014),Documentary
+239,179135,4.984988,Blue Planet II (2017),Documentary
+239,7071,4.984988,"Woman Under the Influence, A (1974)",Drama
+239,4708,4.984988,Marat/Sade (1966),Drama|Musical
+239,184245,4.984988,De platte jungle (1978),Documentary
+312,3379,4.9794283,On the Beach (1959),Drama
+312,27156,4.748128,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+312,92475,4.6696296,All Watched Over by Machines of Loving Grace (2011),Documentary
+312,3468,4.6313543,"Hustler, The (1961)",Drama
+312,5490,4.6277547,The Big Bus (1976),Action|Comedy
+312,3415,4.5957556,"Mirror, The (Zerkalo) (1975)",Drama
+312,858,4.5948405,"Godfather, The (1972)",Crime|Drama
+312,720,4.5917373,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy
+312,1411,4.591005,Hamlet (1996),Crime|Drama|Romance
+312,171495,4.5897284,Cosmos,(no genres listed)
+63,92494,4.812687,Dylan Moran: Monster (2004),Comedy|Documentary
+63,102217,4.812687,Bill Hicks: Revelations (1993),Comedy
+63,183897,4.734981,Isle of Dogs (2018),Animation|Comedy
+63,33779,4.7163,Eddie Izzard: Dress to Kill (1999),Comedy
+63,86290,4.647088,American: The Bill Hicks Story (2009),Comedy|Documentary
+63,8477,4.5476007,"Jetée, La (1962)",Romance|Sci-Fi
+63,3379,4.5224404,On the Beach (1959),Drama
+63,5490,4.4590535,The Big Bus (1976),Action|Comedy
+63,77455,4.40838,Exit Through the Gift Shop (2010),Comedy|Documentary
+63,6442,4.4051614,Belle époque (1992),Comedy|Romance
+509,3379,4.33347,On the Beach (1959),Drama
+509,7121,4.249447,Adam's Rib (1949),Comedy|Romance
+509,183897,4.217747,Isle of Dogs (2018),Animation|Comedy
+509,171495,4.187073,Cosmos,(no genres listed)
+509,78836,4.121855,Enter the Void (2009),Drama
+509,74282,4.107383,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+509,26528,4.107383,Anne of Green Gables (1985),Children|Drama
+509,86237,4.0955563,Connections (1978),Documentary
+509,117531,4.0955563,Watermark (2014),Documentary
+509,7071,4.0955563,"Woman Under the Influence, A (1974)",Drama
+50,3379,3.788316,On the Beach (1959),Drama
+50,26326,3.7808163,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+50,27156,3.7303116,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+50,92475,3.698394,All Watched Over by Machines of Loving Grace (2011),Documentary
+50,1251,3.6971421,8 1/2 (8½) (1963),Drama|Fantasy
+50,3030,3.6852117,Yojimbo (1961),Action|Adventure
+50,96004,3.6703534,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation
+50,3415,3.664457,"Mirror, The (Zerkalo) (1975)",Drama
+50,3468,3.6508656,"Hustler, The (1961)",Drama
+50,1244,3.5967863,Manhattan (1979),Comedy|Drama|Romance
+45,26073,5.2657585,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+45,134796,5.2657585,Bitter Lake (2015),Documentary
+45,184245,5.2657585,De platte jungle (1978),Documentary
+45,86237,5.2657585,Connections (1978),Documentary
+45,74226,5.2657585,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+45,117531,5.2657585,Watermark (2014),Documentary
+45,7071,5.2657585,"Woman Under the Influence, A (1974)",Drama
+45,179135,5.2657585,Blue Planet II (2017),Documentary
+45,4708,5.2657585,Marat/Sade (1966),Drama|Musical
+45,84273,5.2657585,Zeitgeist: Moving Forward (2011),Documentary
+82,157296,4.7789054,Finding Dory (2016),Adventure|Animation|Comedy
+82,26073,4.583316,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+82,184245,4.583316,De platte jungle (1978),Documentary
+82,138966,4.583316,Nasu: Summer in Andalusia (2003),Animation
+82,86237,4.583316,Connections (1978),Documentary
+82,179135,4.583316,Blue Planet II (2017),Documentary
+82,7071,4.583316,"Woman Under the Influence, A (1974)",Drama
+82,74226,4.583316,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+82,4708,4.583316,Marat/Sade (1966),Drama|Musical
+82,117531,4.583316,Watermark (2014),Documentary
+249,3379,5.002895,On the Beach (1959),Drama
+249,183897,4.996183,Isle of Dogs (2018),Animation|Comedy
+249,171495,4.9736266,Cosmos,(no genres listed)
+249,26073,4.94779,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+249,117531,4.94779,Watermark (2014),Documentary
+249,184245,4.94779,De platte jungle (1978),Documentary
+249,86237,4.94779,Connections (1978),Documentary
+249,4708,4.94779,Marat/Sade (1966),Drama|Musical
+249,7071,4.94779,"Woman Under the Influence, A (1974)",Drama
+249,179135,4.94779,Blue Planet II (2017),Documentary
+288,3379,4.40113,On the Beach (1959),Drama
+288,6442,4.2658386,Belle époque (1992),Comedy|Romance
+288,7121,4.2640443,Adam's Rib (1949),Comedy|Romance
+288,171495,4.2558246,Cosmos,(no genres listed)
+288,183897,4.2147374,Isle of Dogs (2018),Animation|Comedy
+288,4495,4.211069,Crossing Delancey (1988),Comedy|Romance
+288,2295,4.211069,"Impostors, The (1998)",Comedy
+288,6201,4.211069,Lady Jane (1986),Drama|Romance
+288,170705,4.1999435,Band of Brothers (2001),Action|Drama|War
+288,78836,4.1814547,Enter the Void (2009),Drama
+356,3379,5.0295014,On the Beach (1959),Drama
+356,183897,4.952359,Isle of Dogs (2018),Animation|Comedy
+356,5490,4.902769,The Big Bus (1976),Action|Comedy
+356,171495,4.880668,Cosmos,(no genres listed)
+356,7122,4.833291,King of Hearts (1966),Comedy|Drama|War
+356,5915,4.816731,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+356,78836,4.800223,Enter the Void (2009),Drama
+356,6442,4.7936797,Belle époque (1992),Comedy|Romance
+356,184245,4.786489,De platte jungle (1978),Documentary
+356,117531,4.786489,Watermark (2014),Documentary
+73,183897,4.982134,Isle of Dogs (2018),Animation|Comedy
+73,3379,4.807194,On the Beach (1959),Drama
+73,171495,4.762512,Cosmos,(no genres listed)
+73,134796,4.7282276,Bitter Lake (2015),Documentary
+73,4708,4.7282276,Marat/Sade (1966),Drama|Musical
+73,86237,4.7282276,Connections (1978),Documentary
+73,179135,4.7282276,Blue Planet II (2017),Documentary
+73,184245,4.7282276,De platte jungle (1978),Documentary
+73,7071,4.7282276,"Woman Under the Influence, A (1974)",Drama
+73,117531,4.7282276,Watermark (2014),Documentary
+160,2314,4.7430205,Beloved (1998),Drama
+160,6591,4.678358,"Magdalene Sisters, The (2002)",Drama
+160,4055,4.678019,Panic (2000),Drama
+160,1411,4.572179,Hamlet (1996),Crime|Drama|Romance
+160,4021,4.556612,Before Night Falls (2000),Drama
+160,85,4.4941583,Angels and Insects (1995),Drama|Romance
+160,1734,4.4627204,My Life in Pink (Ma vie en rose) (1997),Comedy|Drama
+160,4450,4.416235,Bully (2001),Crime|Drama|Thriller
+160,8477,4.400301,"Jetée, La (1962)",Romance|Sci-Fi
+160,1277,4.3944955,Cyrano de Bergerac (1990),Comedy|Drama|Romance
+62,171495,5.0997467,Cosmos,(no genres listed)
+62,3379,5.0945587,On the Beach (1959),Drama
+62,26073,5.0934205,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+62,134796,5.0934205,Bitter Lake (2015),Documentary
+62,184245,5.0934205,De platte jungle (1978),Documentary
+62,86237,5.0934205,Connections (1978),Documentary
+62,4708,5.0934205,Marat/Sade (1966),Drama|Musical
+62,7071,5.0934205,"Woman Under the Influence, A (1974)",Drama
+62,117531,5.0934205,Watermark (2014),Documentary
+62,179135,5.0934205,Blue Planet II (2017),Documentary
+125,5088,4.8373137,"Going Places (Valseuses, Les) (1974)",Comedy|Crime|Drama
+125,86721,4.8373137,Idiots and Angels (2008),Animation|Drama|Fantasy
+125,174053,4.8209114,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller
+125,3379,4.7392807,On the Beach (1959),Drama
+125,171495,4.7084227,Cosmos,(no genres listed)
+125,4708,4.6821575,Marat/Sade (1966),Drama|Musical
+125,117531,4.6821575,Watermark (2014),Documentary
+125,7071,4.6821575,"Woman Under the Influence, A (1974)",Drama
+125,179135,4.6821575,Blue Planet II (2017),Documentary
+125,86237,4.6821575,Connections (1978),Documentary
+156,3096,4.822239,My Man Godfrey (1957),Comedy
+156,6460,4.745709,"Trial, The (Procès, Le) (1962)",Drama
+156,2239,4.700682,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama
+156,3379,4.6976786,On the Beach (1959),Drama
+156,3224,4.6906314,Woman in the Dunes (Suna no onna) (1964),Drama
+156,6666,4.6788,"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le) (1972)",Comedy|Drama|Fantasy
+156,2131,4.6539364,Autumn Sonata (Höstsonaten) (1978),Drama
+156,2511,4.61014,"Long Goodbye, The (1973)",Crime|Film-Noir
+156,945,4.5948133,Top Hat (1935),Comedy|Musical|Romance
+156,1251,4.583452,8 1/2 (8½) (1963),Drama|Fantasy
+480,3677,4.6691227,Baraka (1992),Documentary
+480,3379,4.6089454,On the Beach (1959),Drama
+480,8477,4.559389,"Jetée, La (1962)",Romance|Sci-Fi
+480,7121,4.404023,Adam's Rib (1949),Comedy|Romance
+480,1411,4.4017057,Hamlet (1996),Crime|Drama|Romance
+480,183897,4.3849316,Isle of Dogs (2018),Animation|Comedy
+480,858,4.3322783,"Godfather, The (1972)",Crime|Drama
+480,27156,4.329093,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+480,6436,4.328924,This Boy's Life (1993),Drama
+480,318,4.3247466,"Shawshank Redemption, The (1994)",Crime|Drama
+219,3379,4.617689,On the Beach (1959),Drama
+219,183897,4.447002,Isle of Dogs (2018),Animation|Comedy
+219,8477,4.3558345,"Jetée, La (1962)",Romance|Sci-Fi
+219,171495,4.338325,Cosmos,(no genres listed)
+219,55020,4.3196983,"Ten, The (2007)",Comedy
+219,33779,4.29206,Eddie Izzard: Dress to Kill (1999),Comedy
+219,92494,4.2748218,Dylan Moran: Monster (2004),Comedy|Documentary
+219,102217,4.2748218,Bill Hicks: Revelations (1993),Comedy
+219,5490,4.25879,The Big Bus (1976),Action|Comedy
+219,27156,4.2042766,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+477,3379,4.967575,On the Beach (1959),Drama
+477,183897,4.8850293,Isle of Dogs (2018),Animation|Comedy
+477,171495,4.866337,Cosmos,(no genres listed)
+477,4454,4.834315,More (1998),Animation|Drama|Sci-Fi|IMAX
+477,134796,4.799456,Bitter Lake (2015),Documentary
+477,117531,4.799456,Watermark (2014),Documentary
+477,179135,4.799456,Blue Planet II (2017),Documentary
+477,7071,4.799456,"Woman Under the Influence, A (1974)",Drama
+477,184245,4.799456,De platte jungle (1978),Documentary
+477,86237,4.799456,Connections (1978),Documentary
+226,5490,4.8132834,The Big Bus (1976),Action|Comedy
+226,3379,4.8079705,On the Beach (1959),Drama
+226,5915,4.6804314,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+226,183897,4.6616464,Isle of Dogs (2018),Animation|Comedy
+226,171495,4.623849,Cosmos,(no genres listed)
+226,27523,4.5796967,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+226,78836,4.5529733,Enter the Void (2009),Drama
+226,3653,4.5154777,"Endless Summer, The (1966)",Documentary
+226,86237,4.50992,Connections (1978),Documentary
+226,184245,4.50992,De platte jungle (1978),Documentary
+21,32892,4.4953117,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War
+21,67618,4.494387,Strictly Sexual (2008),Comedy|Drama|Romance
+21,3086,4.4878206,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+21,3404,4.4338574,Titanic (1953),Action|Drama
+21,74226,4.273373,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+21,117531,4.273373,Watermark (2014),Documentary
+21,86237,4.273373,Connections (1978),Documentary
+21,184245,4.273373,De platte jungle (1978),Documentary
+21,4708,4.273373,Marat/Sade (1966),Drama|Musical
+21,7071,4.273373,"Woman Under the Influence, A (1974)",Drama
+352,3379,4.853524,On the Beach (1959),Drama
+352,171495,4.8287406,Cosmos,(no genres listed)
+352,78836,4.825526,Enter the Void (2009),Drama
+352,179135,4.8057365,Blue Planet II (2017),Documentary
+352,184245,4.8057365,De platte jungle (1978),Documentary
+352,134796,4.8057365,Bitter Lake (2015),Documentary
+352,117531,4.8057365,Watermark (2014),Documentary
+352,4708,4.8057365,Marat/Sade (1966),Drama|Musical
+352,86237,4.8057365,Connections (1978),Documentary
+352,7071,4.8057365,"Woman Under the Influence, A (1974)",Drama
+382,3379,5.3220143,On the Beach (1959),Drama
+382,171495,5.135641,Cosmos,(no genres listed)
+382,7121,5.071372,Adam's Rib (1949),Comedy|Romance
+382,78836,5.053058,Enter the Void (2009),Drama
+382,184245,5.019487,De platte jungle (1978),Documentary
+382,179135,5.019487,Blue Planet II (2017),Documentary
+382,86237,5.019487,Connections (1978),Documentary
+382,7071,5.019487,"Woman Under the Influence, A (1974)",Drama
+382,4708,5.019487,Marat/Sade (1966),Drama|Musical
+382,117531,5.019487,Watermark (2014),Documentary
+469,3379,4.83678,On the Beach (1959),Drama
+469,6460,4.783454,"Trial, The (Procès, Le) (1962)",Drama
+469,27156,4.705902,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+469,92475,4.653055,All Watched Over by Machines of Loving Grace (2011),Documentary
+469,26326,4.6297073,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+469,858,4.624563,"Godfather, The (1972)",Crime|Drama
+469,3813,4.5959935,Interiors (1978),Drama
+469,8477,4.5862284,"Jetée, La (1962)",Romance|Sci-Fi
+469,3152,4.5833564,"Last Picture Show, The (1971)",Drama
+469,1244,4.566803,Manhattan (1979),Comedy|Drama|Romance
+221,3379,5.126262,On the Beach (1959),Drama
+221,27156,4.9154515,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+221,92475,4.859868,All Watched Over by Machines of Loving Grace (2011),Documentary
+221,3468,4.8519635,"Hustler, The (1961)",Drama
+221,26131,4.806651,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+221,171495,4.7753525,Cosmos,(no genres listed)
+221,3030,4.7693844,Yojimbo (1961),Action|Adventure
+221,32582,4.767951,"Wild Parrots of Telegraph Hill, The (2003)",Documentary
+221,5490,4.7624946,The Big Bus (1976),Action|Comedy
+221,6442,4.7383285,Belle époque (1992),Comedy|Romance
+414,3379,4.891594,On the Beach (1959),Drama
+414,2836,4.8189526,Outside Providence (1999),Comedy
+414,5416,4.8189526,Cherish (2002),Comedy|Drama|Thriller
+414,8477,4.803992,"Jetée, La (1962)",Romance|Sci-Fi
+414,6442,4.799624,Belle époque (1992),Comedy|Romance
+414,170705,4.781785,Band of Brothers (2001),Action|Drama|War
+414,183897,4.773527,Isle of Dogs (2018),Animation|Comedy
+414,171495,4.6790075,Cosmos,(no genres listed)
+414,5490,4.6654463,The Big Bus (1976),Action|Comedy
+414,27523,4.625774,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+608,74226,4.341693,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+608,184245,4.341693,De platte jungle (1978),Documentary
+608,26073,4.341693,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+608,179135,4.341693,Blue Planet II (2017),Documentary
+608,86237,4.341693,Connections (1978),Documentary
+608,117531,4.341693,Watermark (2014),Documentary
+608,134796,4.341693,Bitter Lake (2015),Documentary
+608,7071,4.341693,"Woman Under the Influence, A (1974)",Drama
+608,4708,4.341693,Marat/Sade (1966),Drama|Musical
+608,84273,4.341693,Zeitgeist: Moving Forward (2011),Documentary
+200,183897,5.0632043,Isle of Dogs (2018),Animation|Comedy
+200,74226,4.9879336,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+200,134796,4.9879336,Bitter Lake (2015),Documentary
+200,179135,4.9879336,Blue Planet II (2017),Documentary
+200,4708,4.9879336,Marat/Sade (1966),Drama|Musical
+200,86237,4.9879336,Connections (1978),Documentary
+200,117531,4.9879336,Watermark (2014),Documentary
+200,7071,4.9879336,"Woman Under the Influence, A (1974)",Drama
+200,184245,4.9879336,De platte jungle (1978),Documentary
+200,26073,4.9879336,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+534,3404,5.0337634,Titanic (1953),Action|Drama
+534,171495,4.993983,Cosmos,(no genres listed)
+534,138966,4.990361,Nasu: Summer in Andalusia (2003),Animation
+534,184245,4.990361,De platte jungle (1978),Documentary
+534,4708,4.990361,Marat/Sade (1966),Drama|Musical
+534,179135,4.990361,Blue Planet II (2017),Documentary
+534,86237,4.990361,Connections (1978),Documentary
+534,7071,4.990361,"Woman Under the Influence, A (1974)",Drama
+534,117531,4.990361,Watermark (2014),Documentary
+534,26073,4.990361,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+354,3379,4.7999554,On the Beach (1959),Drama
+354,171495,4.7071705,Cosmos,(no genres listed)
+354,84273,4.645423,Zeitgeist: Moving Forward (2011),Documentary
+354,74226,4.645423,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+354,86237,4.645423,Connections (1978),Documentary
+354,184245,4.645423,De platte jungle (1978),Documentary
+354,4708,4.645423,Marat/Sade (1966),Drama|Musical
+354,117531,4.645423,Watermark (2014),Documentary
+354,179135,4.645423,Blue Planet II (2017),Documentary
+354,7071,4.645423,"Woman Under the Influence, A (1974)",Drama
+304,3404,5.238908,Titanic (1953),Action|Drama
+304,3379,4.961259,On the Beach (1959),Drama
+304,7841,4.9511194,Children of Dune (2003),Fantasy|Sci-Fi
+304,59018,4.9511194,"Visitor, The (2007)",Drama|Romance
+304,60943,4.9511194,Frozen River (2008),Drama
+304,7121,4.83053,Adam's Rib (1949),Comedy|Romance
+304,3200,4.8208356,"Last Detail, The (1973)",Comedy|Drama
+304,3086,4.801468,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+304,7706,4.7746983,Animal Crackers (1930),Comedy|Musical
+304,3022,4.7598205,"General, The (1926)",Comedy|War
+105,183897,4.9426184,Isle of Dogs (2018),Animation|Comedy
+105,3379,4.913933,On the Beach (1959),Drama
+105,7121,4.9071465,Adam's Rib (1949),Comedy|Romance
+105,171495,4.9023905,Cosmos,(no genres listed)
+105,134796,4.886839,Bitter Lake (2015),Documentary
+105,4708,4.886839,Marat/Sade (1966),Drama|Musical
+105,7071,4.886839,"Woman Under the Influence, A (1974)",Drama
+105,117531,4.886839,Watermark (2014),Documentary
+105,86237,4.886839,Connections (1978),Documentary
+105,184245,4.886839,De platte jungle (1978),Documentary
+298,7926,3.785018,High and Low (Tengoku to jigoku) (1963),Crime|Drama|Film-Noir|Thriller
+298,3379,3.7808845,On the Beach (1959),Drama
+298,27156,3.766364,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+298,665,3.7128754,Underground (1995),Comedy|Drama|War
+298,2931,3.7128754,Time of the Gypsies (Dom za vesanje) (1989),Comedy|Crime|Drama|Fantasy
+298,65642,3.6269531,"Timecrimes (Cronocrímenes, Los) (2007)",Sci-Fi|Thriller
+298,92535,3.5481787,Louis C.K.: Live at the Beacon Theater (2011),Comedy
+298,6283,3.5056934,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller
+298,858,3.5026267,"Godfather, The (1972)",Crime|Drama
+298,3030,3.4819438,Yojimbo (1961),Action|Adventure
+68,67618,4.808379,Strictly Sexual (2008),Comedy|Drama|Romance
+68,69394,4.3275414,"Stoning of Soraya M., The (2008)",Crime|Drama
+68,41724,4.3275414,Wal-Mart: The High Cost of Low Price (2005),Documentary
+68,69524,4.3275414,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller
+68,90576,4.3275414,What's Your Number? (2011),Comedy|Romance
+68,3404,4.2808185,Titanic (1953),Action|Drama
+68,74946,4.275086,She's Out of My League (2010),Comedy
+68,183897,4.2511024,Isle of Dogs (2018),Animation|Comedy
+68,65188,4.2448425,Dear Zachary: A Letter to a Son About His Father (2008),Documentary
+68,86377,4.2386928,Louis C.K.: Shameless (2007),Comedy
+567,40491,4.7391915,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama
+567,8477,4.6042666,"Jetée, La (1962)",Romance|Sci-Fi
+567,148881,4.5528483,World of Tomorrow (2015),Animation|Comedy
+567,25771,4.5463514,"Andalusian Dog, An (Chien andalou, Un) (1929)",Fantasy
+567,156605,4.2652717,Paterson,(no genres listed)
+567,112421,4.001051,Frank (2014),Comedy|Drama|Mystery
+567,143367,3.9763486,Silence (2016),Drama|Thriller
+567,176371,3.9449918,Blade Runner 2049 (2017),Sci-Fi
+567,3676,3.9300609,Eraserhead (1977),Drama|Horror
+567,58301,3.8742344,Funny Games U.S. (2007),Drama|Thriller
+525,3379,4.6542964,On the Beach (1959),Drama
+525,7121,4.567834,Adam's Rib (1949),Comedy|Romance
+525,183897,4.5622725,Isle of Dogs (2018),Animation|Comedy
+525,8477,4.5526767,"Jetée, La (1962)",Romance|Sci-Fi
+525,171495,4.445585,Cosmos,(no genres listed)
+525,3451,4.3814936,Guess Who's Coming to Dinner (1967),Drama
+525,27523,4.372992,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+525,5490,4.36516,The Big Bus (1976),Action|Comedy
+525,4495,4.3639507,Crossing Delancey (1988),Comedy|Romance
+525,2295,4.3639507,"Impostors, The (1998)",Comedy
+561,3379,4.7121377,On the Beach (1959),Drama
+561,27156,4.4589586,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+561,8477,4.3731694,"Jetée, La (1962)",Romance|Sci-Fi
+561,5490,4.3412642,The Big Bus (1976),Action|Comedy
+561,27523,4.307107,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+561,171495,4.30311,Cosmos,(no genres listed)
+561,5915,4.23728,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+561,858,4.2345977,"Godfather, The (1972)",Crime|Drama
+561,6442,4.2149644,Belle époque (1992),Comedy|Romance
+561,3468,4.2149534,"Hustler, The (1961)",Drama
+198,5607,4.8308845,"Son of the Bride (Hijo de la novia, El) (2001)",Comedy|Drama
+198,1446,4.6459694,Kolya (Kolja) (1996),Comedy|Drama
+198,3746,4.587238,Butterfly (La lengua de las mariposas) (1999),Drama
+198,5570,4.444529,Thesis (Tesis) (1996),Drama|Horror|Thriller
+198,1411,4.3552513,Hamlet (1996),Crime|Drama|Romance
+198,1172,4.2935724,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama
+198,7706,4.289899,Animal Crackers (1930),Comedy|Musical
+198,3246,4.2891045,Malcolm X (1992),Drama
+198,117531,4.2749214,Watermark (2014),Documentary
+198,86237,4.2749214,Connections (1978),Documentary
+600,25947,4.8060904,Unfaithfully Yours (1948),Comedy
+600,26326,4.7673593,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama
+600,26258,4.58521,"Topo, El (1970)",Fantasy|Western
+600,2936,4.3670754,Sullivan's Travels (1941),Adventure|Comedy|Romance
+600,2303,4.364507,Nashville (1975),Drama|Musical
+600,8261,4.3254814,3 Women (Three Women) (1977),Drama
+600,1244,4.221037,Manhattan (1979),Comedy|Drama|Romance
+600,32456,4.203607,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)",Animation|Comedy|Drama|Fantasy
+600,3030,4.188425,Yojimbo (1961),Action|Adventure
+600,27563,4.151451,"Happiness of the Katakuris, The (Katakuri-ke no kôfuku) (2001)",Comedy|Horror|Musical
+199,8477,4.541724,"Jetée, La (1962)",Romance|Sci-Fi
+199,4406,4.5299377,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western
+199,3379,4.505877,On the Beach (1959),Drama
+199,32582,4.3046017,"Wild Parrots of Telegraph Hill, The (2003)",Documentary
+199,26131,4.296815,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War
+199,1178,4.288998,Paths of Glory (1957),Drama|War
+199,1262,4.2461734,"Great Escape, The (1963)",Action|Adventure|Drama|War
+199,148881,4.2399154,World of Tomorrow (2015),Animation|Comedy
+199,3468,4.217317,"Hustler, The (1961)",Drama
+199,5490,4.2141695,The Big Bus (1976),Action|Comedy
+135,8477,5.033567,"Jetée, La (1962)",Romance|Sci-Fi
+135,3379,5.0192256,On the Beach (1959),Drama
+135,171495,4.791264,Cosmos,(no genres listed)
+135,78836,4.7414103,Enter the Void (2009),Drama
+135,148881,4.730896,World of Tomorrow (2015),Animation|Comedy
+135,183897,4.711315,Isle of Dogs (2018),Animation|Comedy
+135,27156,4.7086864,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+135,27523,4.6766224,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+135,86237,4.65191,Connections (1978),Documentary
+135,117531,4.65191,Watermark (2014),Documentary
+42,5490,4.811525,The Big Bus (1976),Action|Comedy
+42,232,4.7788925,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
+42,7706,4.774532,Animal Crackers (1930),Comedy|Musical
+42,3379,4.749177,On the Beach (1959),Drama
+42,3404,4.7461,Titanic (1953),Action|Drama
+42,171495,4.7388806,Cosmos,(no genres listed)
+42,5915,4.7336726,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War
+42,78836,4.7258453,Enter the Void (2009),Drama
+42,179135,4.72434,Blue Planet II (2017),Documentary
+42,117531,4.72434,Watermark (2014),Documentary
+119,84273,5.233837,Zeitgeist: Moving Forward (2011),Documentary
+119,134796,5.233837,Bitter Lake (2015),Documentary
+119,4708,5.233837,Marat/Sade (1966),Drama|Musical
+119,86237,5.233837,Connections (1978),Documentary
+119,74226,5.233837,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+119,184245,5.233837,De platte jungle (1978),Documentary
+119,179135,5.233837,Blue Planet II (2017),Documentary
+119,117531,5.233837,Watermark (2014),Documentary
+119,7071,5.233837,"Woman Under the Influence, A (1974)",Drama
+119,26073,5.233837,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+365,102686,3.837776,"Hangover Part III, The (2013)",Comedy
+365,119141,3.744626,The Interview (2014),Action|Comedy
+365,156609,3.7405157,Neighbors 2: Sorority Rising (2016),Comedy
+365,93510,3.712172,21 Jump Street (2012),Action|Comedy|Crime
+365,111617,3.6650276,Blended (2014),Comedy
+365,100507,3.6552212,21 and Over (2013),Comedy
+365,61024,3.6015227,Pineapple Express (2008),Action|Comedy|Crime
+365,158872,3.5851548,Sausage Party (2016),Animation|Comedy
+365,84772,3.5660117,Paul (2011),Adventure|Comedy|Sci-Fi
+365,111113,3.5590446,Neighbors (2014),Comedy
+294,3235,4.52923,Where the Buffalo Roam (1980),Comedy
+294,3525,4.196787,Bachelor Party (1984),Comedy
+294,417,4.1373534,Barcelona (1994),Comedy|Romance
+294,60943,4.0672135,Frozen River (2008),Drama
+294,59018,4.0672135,"Visitor, The (2007)",Drama|Romance
+294,7841,4.0672135,Children of Dune (2003),Fantasy|Sci-Fi
+294,3040,4.0151677,Meatballs (1979),Comedy
+294,3379,3.9277732,On the Beach (1959),Drama
+294,7842,3.9265847,Dune (2000),Drama|Fantasy|Sci-Fi
+294,1204,3.8356407,Lawrence of Arabia (1962),Adventure|Drama|War
+357,7121,5.0286202,Adam's Rib (1949),Comedy|Romance
+357,3379,4.9780755,On the Beach (1959),Drama
+357,183897,4.8575273,Isle of Dogs (2018),Animation|Comedy
+357,171495,4.828201,Cosmos,(no genres listed)
+357,38304,4.825104,No Direction Home: Bob Dylan (2005),Documentary
+357,2295,4.8034897,"Impostors, The (1998)",Comedy
+357,6201,4.8034897,Lady Jane (1986),Drama|Romance
+357,4495,4.8034897,Crossing Delancey (1988),Comedy|Romance
+357,3451,4.7906427,Guess Who's Coming to Dinner (1967),Drama
+357,26528,4.7797074,Anne of Green Gables (1985),Children|Drama
+573,3379,5.378144,On the Beach (1959),Drama
+573,171495,5.2253776,Cosmos,(no genres listed)
+573,78836,5.201811,Enter the Void (2009),Drama
+573,74226,5.128318,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",Documentary|Drama
+573,7071,5.128318,"Woman Under the Influence, A (1974)",Drama
+573,134796,5.128318,Bitter Lake (2015),Documentary
+573,117531,5.128318,Watermark (2014),Documentary
+573,184245,5.128318,De platte jungle (1978),Documentary
+573,4708,5.128318,Marat/Sade (1966),Drama|Musical
+573,179135,5.128318,Blue Planet II (2017),Documentary
+313,4180,4.85383,Reform School Girls (1986),Action|Drama
+313,3153,4.7729435,"7th Voyage of Sinbad, The (1958)",Action|Adventure|Fantasy
+313,3771,4.7422676,The Golden Voyage of Sinbad (1973),Action|Adventure|Fantasy
+313,8477,4.620705,"Jetée, La (1962)",Romance|Sci-Fi
+313,2138,4.6154776,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy
+313,3727,4.5992174,Near Dark (1987),Horror|Western
+313,3550,4.5722632,The Hunger (1983),Horror
+313,3379,4.54255,On the Beach (1959),Drama
+313,7387,4.5155067,Dawn of the Dead (1978),Action|Drama|Horror
+313,2287,4.5095773,Them! (1954),Horror|Sci-Fi|Thriller
+66,3379,5.2038774,On the Beach (1959),Drama
+66,171495,5.160556,Cosmos,(no genres listed)
+66,78836,5.1329665,Enter the Void (2009),Drama
+66,183897,5.128729,Isle of Dogs (2018),Animation|Comedy
+66,4708,5.126323,Marat/Sade (1966),Drama|Musical
+66,86237,5.126323,Connections (1978),Documentary
+66,179135,5.126323,Blue Planet II (2017),Documentary
+66,184245,5.126323,De platte jungle (1978),Documentary
+66,7071,5.126323,"Woman Under the Influence, A (1974)",Drama
+66,117531,5.126323,Watermark (2014),Documentary
+186,3379,5.312502,On the Beach (1959),Drama
+186,3404,5.176266,Titanic (1953),Action|Drama
+186,7121,5.1233897,Adam's Rib (1949),Comedy|Romance
+186,171495,5.109714,Cosmos,(no genres listed)
+186,3200,5.086567,"Last Detail, The (1973)",Comedy|Drama
+186,78836,5.016671,Enter the Void (2009),Drama
+186,117531,4.9842024,Watermark (2014),Documentary
+186,7071,4.9842024,"Woman Under the Influence, A (1974)",Drama
+186,4708,4.9842024,Marat/Sade (1966),Drama|Musical
+186,86237,4.9842024,Connections (1978),Documentary
+275,3379,5.291259,On the Beach (1959),Drama
+275,27523,4.9421678,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance
+275,5490,4.8851194,The Big Bus (1976),Action|Comedy
+275,27156,4.870695,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi
+275,6254,4.8699145,"Awful Truth, The (1937)",Comedy|Romance
+275,1683,4.8699145,"Wings of the Dove, The (1997)",Drama|Romance
+275,3302,4.857452,Beautiful People (1999),Comedy
+275,5938,4.8572006,Deathtrap (1982),Comedy|Crime|Mystery|Thriller
+275,5745,4.8572006,"Four Seasons, The (1981)",Comedy|Drama
+275,6122,4.8572006,Richard Pryor Live on the Sunset Strip (1982),Comedy|Documentary
+282,3379,5.055128,On the Beach (1959),Drama
+282,7121,4.948458,Adam's Rib (1949),Comedy|Romance
+282,171495,4.9207716,Cosmos,(no genres listed)
+282,78836,4.8693924,Enter the Void (2009),Drama
+282,3404,4.868306,Titanic (1953),Action|Drama
+282,183897,4.861487,Isle of Dogs (2018),Animation|Comedy
+282,5490,4.858371,The Big Bus (1976),Action|Comedy
+282,179135,4.834815,Blue Planet II (2017),Documentary
+282,7071,4.834815,"Woman Under the Influence, A (1974)",Drama
+282,184245,4.834815,De platte jungle (1978),Documentary
+605,26528,4.346371,Anne of Green Gables (1985),Children|Drama
+605,74282,4.346371,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+605,3379,4.338039,On the Beach (1959),Drama
+605,7121,4.3248067,Adam's Rib (1949),Comedy|Romance
+605,3404,4.304305,Titanic (1953),Action|Drama
+605,67618,4.2763934,Strictly Sexual (2008),Comedy|Drama|Romance
+605,171495,4.1822953,Cosmos,(no genres listed)
+605,183897,4.140112,Isle of Dogs (2018),Animation|Comedy
+605,2295,4.1368876,"Impostors, The (1998)",Comedy
+605,6201,4.1368876,Lady Jane (1986),Drama|Romance
+562,3379,5.126945,On the Beach (1959),Drama
+562,7121,5.118085,Adam's Rib (1949),Comedy|Romance
+562,171495,5.068219,Cosmos,(no genres listed)
+562,26073,5.0253305,"Human Condition III, The (Ningen no joken III) (1961)",Drama|War
+562,4708,5.0253305,Marat/Sade (1966),Drama|Musical
+562,117531,5.0253305,Watermark (2014),Documentary
+562,184245,5.0253305,De platte jungle (1978),Documentary
+562,86237,5.0253305,Connections (1978),Documentary
+562,7071,5.0253305,"Woman Under the Influence, A (1974)",Drama
+562,179135,5.0253305,Blue Planet II (2017),Documentary
+18,3379,4.8341346,On the Beach (1959),Drama
+18,171495,4.6563044,Cosmos,(no genres listed)
+18,7121,4.607526,Adam's Rib (1949),Comedy|Romance
+18,183897,4.594514,Isle of Dogs (2018),Animation|Comedy
+18,78836,4.5751696,Enter the Void (2009),Drama
+18,7071,4.545918,"Woman Under the Influence, A (1974)",Drama
+18,184245,4.545918,De platte jungle (1978),Documentary
+18,179135,4.545918,Blue Planet II (2017),Documentary
+18,86237,4.545918,Connections (1978),Documentary
+18,117531,4.545918,Watermark (2014),Documentary
+104,7121,4.7137794,Adam's Rib (1949),Comedy|Romance
+104,25906,4.508346,Mr. Skeffington (1944),Drama|Romance
+104,93008,4.508346,"Very Potter Sequel, A (2010)",Comedy|Musical
+104,3451,4.478334,Guess Who's Coming to Dinner (1967),Drama
+104,26528,4.4605846,Anne of Green Gables (1985),Children|Drama
+104,74282,4.4605846,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance
+104,1046,4.4360414,Beautiful Thing (1996),Drama|Romance
+104,3404,4.4261713,Titanic (1953),Action|Drama
+104,38304,4.3904314,No Direction Home: Bob Dylan (2005),Documentary
+104,3379,4.3850327,On the Beach (1959),Drama
+483,3379,4.8881955,On the Beach (1959),Drama
+483,183897,4.867925,Isle of Dogs (2018),Animation|Comedy
+483,6442,4.8187485,Belle époque (1992),Comedy|Romance
+483,171495,4.7392693,Cosmos,(no genres listed)
+483,78836,4.6594534,Enter the Void (2009),Drama
+483,86237,4.645296,Connections (1978),Documentary
+483,7071,4.645296,"Woman Under the Influence, A (1974)",Drama
+483,117531,4.645296,Watermark (2014),Documentary
+483,184245,4.645296,De platte jungle (1978),Documentary
+483,179135,4.645296,Blue Planet II (2017),Documentary
+187,3030,5.0251136,Yojimbo (1961),Action|Adventure
+187,26840,4.8279657,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama
+187,33138,4.8279657,Palindromes (2004),Adventure|Comedy|Drama
+187,5244,4.8279657,Shogun Assassin (1980),Action|Adventure
+187,32387,4.7325993,"Sword of Doom, The (Dai-bosatsu tôge) (1966)",Action|Drama
+187,3379,4.6946487,On the Beach (1959),Drama
+187,8477,4.6715827,"Jetée, La (1962)",Romance|Sci-Fi
+187,3468,4.662078,"Hustler, The (1961)",Drama
+187,1251,4.651509,8 1/2 (8½) (1963),Drama|Fantasy
+187,26082,4.650252,Harakiri (Seppuku) (1962),Drama
+89,107951,4.8481297,Hunting Elephants (2013),Comedy|Crime
+89,69211,4.8481297,Boy Eats Girl (2005),Comedy|Horror
+89,93022,4.8481297,Miss Nobody (2010),Comedy|Crime
+89,103602,4.8481297,Craig Ferguson: I'm Here To Help (2013),Comedy|Documentary
+89,44851,4.8481297,Go for Zucker! (Alles auf Zucker!) (2004),Comedy
+89,34312,4.8481297,"Calcium Kid, The (2004)",Comedy
+89,84512,4.8481297,Girls About Town (1931),Comedy
+89,72692,4.8481297,Mickey's Once Upon a Christmas (1999),Animation|Comedy|Fantasy
+89,73822,4.8481297,Meantime (1984),Comedy|Drama
+89,109241,4.8481297,On the Other Side of the Tracks (De l'autre côté du périph) (2012),Action|Comedy|Crime
+517,3061,4.5301056,Holiday Inn (1942),Comedy|Musical
+517,3675,4.162206,White Christmas (1954),Comedy|Musical|Romance
+517,94070,4.1199546,"Best Exotic Marigold Hotel, The (2011)",Comedy|Drama
+517,82169,3.9982886,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",Adventure|Children|Fantasy
+517,137857,3.9852679,The Jungle Book (2016),Adventure|Drama|Fantasy
+517,90866,3.937144,Hugo (2011),Children|Drama|Mystery
+517,107780,3.8552418,Cats (1998),Musical
+517,50160,3.8552418,Miss Potter (2006),Drama
+517,80969,3.8181744,Never Let Me Go (2010),Drama|Romance|Sci-Fi
+517,91488,3.7874484,"Snowman, The (1982)",Animation|Children|Musical

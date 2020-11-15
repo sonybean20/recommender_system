@@ -16,7 +16,6 @@ print(f'Recommendations for {users_str}.' )
 spark = SparkSession.builder.appName('Recommender').getOrCreate()
 
 movies = spark.read.csv("data/ml-latest-small/movies.csv", inferSchema=True, header=True)
-movies.createOrReplaceTempView("movies")
 ratings = spark.read.csv("data/ml-latest-small/ratings.csv", inferSchema=True, header=True)
 ratings.createOrReplaceTempView("ratings")
 users = spark.sql("SELECT DISTINCT userId FROM ratings WHERE userId IN (" + users_str +")")
@@ -38,14 +37,15 @@ recommendations = als_model.recommendForUserSubset(users, n)
 recommendations = recommendations.withColumn("exploded", F.explode(F.col("recommendations")))\
                                 .select('userId', F.col("exploded.movieId"), F.col("exploded.rating"))\
                                 .drop("recommendations", "exploded")
-recommendations.createOrReplaceTempView("als_recommendations")
 
 # Join with movies on movieId
-recommendations = spark.sql("SELECT * FROM als_recommendations INNER JOIN movies ON als_recommendations.movieId = movies.movieId")
-recommendations = recommendations.drop("movieId")
+recommendations = recommendations.join(movies, "movieId")
 
 # Print ALS Recommendations to console
 recommendations.show()
 
 # Output ALS Recommendations to csv
-recommendations.coalesce(1).write.csv('als_recommendations.csv')
+recommendations.select("userId", "movieId", "rating", "title", "genres")\
+               .coalesce(1)\
+               .write.option("header","true")\
+               .csv('als_recommendations.csv')
