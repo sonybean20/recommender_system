@@ -13,11 +13,16 @@ print(f'Recommendations for {users_str}.' )
 # read top 10 recs for all users (ALS)
 als_recs = pd.read_csv("top10_recs_all_users.csv")
 
+# read top 10 recs for all users (Content Based)
+cb_recs = pd.read_csv("top10_recs_content_based.csv")
+
 # number of recommendations to generate per user
 n = 5
 
 # select top n recommendations per user
 top_n_als_recs = als_recs.loc[als_recs['userId'].isin(listOfUsers)].groupby("userId").head(n)
+top_n_cb_recs = cb_recs.loc[cb_recs['userId'].isin(listOfUsers)].groupby("userId").head(n)
 
 # Output Recommendations to csv
 top_n_als_recs.to_csv("top_n_recommendations.csv", index=False)
+top_n_cb_recs.to_csv('top_n_recommendations.csv', mode='a', index=False)

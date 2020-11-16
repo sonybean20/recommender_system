@@ -1,0 +1,22 @@
+userId,movieId,rating,title,genres
+1,3379,5.6596465,On the Beach (1959),Drama
+1,171495,5.5848684,Cosmos,(no genres listed)
+1,5490,5.582294,The Big Bus (1976),Action|Comedy
+1,179135,5.5318403,Blue Planet II (2017),Documentary
+1,86237,5.5318403,Connections (1978),Documentary
+4,3851,4.851076,I'm the One That I Want (2000),Comedy
+4,1046,4.729497,Beautiful Thing (1996),Drama|Romance
+4,1262,4.7247959999999996,"Great Escape, The (1963)",Action|Adventure|Drama|War
+4,25825,4.7231793,Fury (1936),Drama|Film-Noir
+4,4765,4.710532,L.I.E. (2001),Drama
+movieId,title,genres,userId
+1208,Apocalypse Now (1979),Action|Drama|War,3
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,3
+30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Crime|Drama,3
+76,Screamers (1995),Action|Sci-Fi|Thriller,3
+6849,Scrooge (1970),Drama|Fantasy|Musical,3
+2159,Henry: Portrait of a Serial Killer (1986),Crime|Horror|Thriller,2
+25,Leaving Las Vegas (1995),Drama|Romance,2
+2,Jumanji (1995),Adventure|Children|Fantasy,2
+257,Just Cause (1995),Mystery|Thriller,2
+435,Coneheads (1993),Comedy|Sci-Fi,2

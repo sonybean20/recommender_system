@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.recommendation import ALSModel
 import sys 
 from pyspark.sql import functions as F
+from contentbased import user_topN_related_movies
 
 if len(sys.argv) < 2:
     print('python recommender.py listOfUserIds*')
@@ -42,6 +43,7 @@ recommendations = recommendations.withColumn("exploded", F.explode(F.col("recomm
 recommendations = recommendations.join(movies, "movieId")
 
 # Print ALS Recommendations to console
+print("ALS Recommendations type:\n")
 recommendations.show()
 
 # Output ALS Recommendations to csv
@@ -49,3 +51,6 @@ recommendations.select("userId", "movieId", "rating", "title", "genres")\
                .coalesce(1)\
                .write.option("header","true")\
                .csv('als_recommendations.csv')
+
+print("Content-Based Recommendations:\n")
+recommendations2 = user_topN_related_movies(listOfUsers, n)
