@@ -23,6 +23,21 @@ n = 5
 top_n_als_recs = als_recs.loc[als_recs['userId'].isin(listOfUsers)].groupby("userId").head(n)
 top_n_cb_recs = cb_recs.loc[cb_recs['userId'].isin(listOfUsers)].groupby("userId").head(n)
 
+# add columns
+top_n_als_recs['algo'] = 'ALS'
+top_n_cb_recs['algo'] = 'CB'
+top_n_cb_recs['rating'] = None
+
 # Output Recommendations to csv
-top_n_als_recs.to_csv("top_n_recommendations.csv", index=False)
-top_n_cb_recs.to_csv('top_n_recommendations.csv', mode='a', index=False)
+top_n_als_recs.to_csv(
+    "top_n_recommendations.csv", 
+    columns=['userId','movieId','rating','title','genres','algo'], 
+    index=False
+)
+top_n_cb_recs.to_csv(
+    'top_n_recommendations.csv', 
+    columns=['userId','movieId','rating','title','genres','algo'],
+    mode='a', 
+    index=False,
+    header=False
+)
