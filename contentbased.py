@@ -27,22 +27,6 @@ ratings_movie.to_csv('data/ratings_movie.csv', index=False)
 user_preference = ratings_movie[['userId', 'genres']]
 user_preference['genres'] = user_preference.groupby(['userId'])['genres'].transform(lambda x: "|".join(x))
 
-def get_user_top5_prefers(x):
-    myset = set([]) 
-    genres_list = x.split("|")
-    
-    for g in genres_list: 
-        myset.add (g)
-        if len(myset) >= 5:
-            break
-
-    str_val = "|".join(myset)
-    return str_val
-
-user_preference['genres'] = user_preference['genres'].transform(get_user_top5_prefers)
-#print ("user top 5 favourite genres:\n", user_preference.head(5))
-#user_preference.to_csv('data/user_preference.csv', index=False)
-
 tfidf = TfidfVectorizer(stop_words='english')
 
 # Replace NaN with an empty string
@@ -50,9 +34,6 @@ movies['genres'] = movies['genres'].fillna('')
 
 # Construct the required TF-IDF matrix by fitting and transforming the data
 tfidf_matrix = tfidf.fit_transform(movies['genres'])
-
-# Output the shape of tfidf_matrix
-#print ("tfidf matrix shape: (", tfidf_matrix.shape[0], ",", tfidf_matrix.shape[1], ")")
 
 # Compute consine
 consine_similarity = linear_kernel(tfidf_matrix, tfidf_matrix)
@@ -100,12 +81,15 @@ def user_topN_related_movies(userIds, n):
         if i <= 0 :
             i = n
             j = j+1
+        
         single = content_based_recommendations(m, 2)
         single["userId"] = user_topN[j]
         recommendations = recommendations.append(single)
         i = i-1
+    recommendations = recommendations[['userId','movieId', 'title','genres']]
     print("recommendations:\n", recommendations, "\n")
-    #recommendations.to_csv('top10_recs_content_based.csv', mode='a', index=False)
+    #recommendations.to_csv('top10_recs_content_based.csv', mode='a', index=False) // to generate top10 recommendations for lessDf
     return recommendations
 
-#user_topN_related_movies([1,2,3,4], 10) 
+#all = ratings["userId"].unique()
+#user_topN_related_movies(all, 10) 
