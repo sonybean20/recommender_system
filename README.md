@@ -4,4 +4,3 @@ Our project is a recommender system to recommend movies to users based on their 
 
 The inputs to generate a recommendation list are the userIds of users that we want to generate recommendations for. The output is a csv file that contains a list of movies recommended to each userId. 
 
-[How to resolve null entry in command string exception](https://stackoverflow.com/questions/40764807/null-entry-in-command-string-exception-in-saveastextfile-on-pyspark)
