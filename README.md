@@ -27,7 +27,7 @@ To print pregenerated recommendations, run
 |1|86237|5.5318403|Connections (1978)|Documentary|ALS|
 |4|3851|4.851076|I'm the One That I Want (2000)|Comedy|ALS|
 |4|1046|4.729497|Beautiful Thing (1996)|Drama|Romance|ALS|
-|4|1262|4.7247959999999996|"Great Escape| The (1963)"|Action|Adventure|Drama|War|ALS|
+|4|1262|4.7247959999999996|"Great Escape, The (1963)"|Action|Adventure|Drama|War|ALS|
 |4|25825|4.7231793|Fury (1936)|Drama|Film-Noir|ALS|
 |4|4765|4.710532|L.I.E. (2001)|Drama|ALS|
 |3|1208||Apocalypse Now (1979)|Action|Drama|War|CB|
