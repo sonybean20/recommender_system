@@ -23,34 +23,49 @@ users = spark.sql("SELECT DISTINCT userId FROM ratings WHERE userId IN (" + user
 users.show()
 
 # load the best ALS model
-als_model = ALSModel.load("models/als-best")
+als_model = ALSModel.load("models/final")
 
 # number of recommendations to generate per user
 n = 5
 
 # Generate n Recommendations for all users
-# recommendations = als_model.recommendForAllUsers(n)
+# top_n_als_recs = als_model.recommendForAllUsers(n)
 
 # Generate n Recommendations for a subset of users
-recommendations = als_model.recommendForUserSubset(users, n)
+top_n_als_recs = als_model.recommendForUserSubset(users, n)
 
 # Explode recommendations column into multiple rows per userId 
-recommendations = recommendations.withColumn("exploded", F.explode(F.col("recommendations")))\
+top_n_als_recs = top_n_als_recs.withColumn("exploded", F.explode(F.col("recommendations")))\
                                 .select('userId', F.col("exploded.movieId"), F.col("exploded.rating"))\
                                 .drop("recommendations", "exploded")
 
 # Join with movies on movieId
-recommendations = recommendations.join(movies, "movieId")
+top_n_als_recs = top_n_als_recs.join(movies, "movieId")
 
 # Print ALS Recommendations to console
-print("ALS Recommendations type:\n")
-recommendations.show()
+print("ALS Recommendations:\n")
+top_n_als_recs = top_n_als_recs.select("*").toPandas()
+print(top_n_als_recs)
 
-# Output ALS Recommendations to csv
-recommendations.select("userId", "movieId", "rating", "title", "genres")\
-               .coalesce(1)\
-               .write.option("header","true")\
-               .csv('als_recommendations.csv')
-
+# Print CB Recommendations to console
 print("Content-Based Recommendations:\n")
-recommendations2 = user_topN_related_movies(listOfUsers, n)
+top_n_cb_recs = user_topN_related_movies(listOfUsers, n)
+
+# add columns
+top_n_als_recs['algo'] = 'ALS'
+top_n_cb_recs['algo'] = 'CB'
+top_n_cb_recs['rating'] = None
+
+# Output Recommendations to csv
+top_n_als_recs.to_csv(
+    "top_n_recommendations.csv", 
+    columns=['userId','movieId','rating','title','genres','algo'], 
+    index=False
+)
+top_n_cb_recs.to_csv(
+    'top_n_recommendations.csv', 
+    columns=['userId','movieId','rating','title','genres','algo'],
+    mode='a', 
+    index=False,
+    header=False
+)

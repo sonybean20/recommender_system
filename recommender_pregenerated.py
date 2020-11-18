@@ -11,7 +11,7 @@ users_str = ','.join(listOfUsers)
 print(f'Recommendations for {users_str}.' )
 
 # read top 10 recs for all users (ALS)
-als_recs = pd.read_csv("top10_recs_all_users.csv")
+als_recs = pd.read_csv("top10_recs_als.csv")
 
 # read top 10 recs for all users (Content Based)
 cb_recs = pd.read_csv("top10_recs_content_based.csv")

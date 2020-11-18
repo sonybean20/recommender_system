@@ -5,6 +5,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.evaluation import RegressionEvaluator
 from pyspark.ml.recommendation import ALS
 from pyspark.ml.tuning import ParamGridBuilder, CrossValidator
+import pandas as pd
 
 # Output manyDf to csv, use as input for ALS: only need to run once!
 # lessDf, manyDf = splitCSVBasedOnNumReviewPerUser('data/ml-latest-small/ratings.csv')
@@ -37,8 +38,9 @@ als = ALS(
 
 # hyperparameter grid
 param_grid = ParamGridBuilder() \
-            .addGrid(als.rank, [10, 50]) \
-            .addGrid(als.regParam, [.01, .05, .1, .15]) \
+            .addGrid(als.rank, [20]) \
+            .addGrid(als.regParam, [.01, .05, .1]) \
+            .addGrid(als.maxIter, [10, 15, 20]) \
             .build()
 
 # evaluator (rmse)
@@ -68,8 +70,21 @@ print("  MaxIter:", best_model._java_obj.parent().getMaxIter())
 # Print "RegParam"
 print("  RegParam:", best_model._java_obj.parent().getRegParam())
 
-best_model.save("models/als-best")
+print("**All Models**")
+params = [{p.name: v for p, v in m.items()} for m in model.getEstimatorParamMaps()]
+pddf = pd.DataFrame.from_dict([
+    {model.getEvaluator().getMetricName(): metric, **ps} 
+    for ps, metric in zip(params, model.avgMetrics)
+])
 
-# Generate n Recommendations for all users
-recommendations = best_model.recommendForAllUsers(5)
-recommendations.show()
+pddf.to_csv("pddf2.csv")
+
+als = ALS(rank=10,
+          maxIter=20, 
+          regParam=0.1, 
+          userCol="userId", 
+          itemCol="movieId", 
+          ratingCol="rating",
+          coldStartStrategy="drop")
+final_model = als.fit(ratings)
+final_model.save("models/final")

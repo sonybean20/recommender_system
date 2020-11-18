@@ -11,11 +11,13 @@ The inputs to generate a recommendation list are the userIds of users that we wa
 `pip install pyspark`
 
 # How to run the code
-To generate recommendations using the trained ALS model, run
-`python3 recommender.py`
+1. To generate recommendations using the trained ALS model, run `python3 recommender.py [userId*]`
+   Example: `python3 recommender.py 1 2 3 4 5`
 
-To print pregenerated recommendations, run
-`python3 recommender_pregenerated.py`
+2. To get pregenerated recommendations, run `python3 recommender_pregenerated.py [userId*]`
+   Example: `python3 recommender_pregenerated.py 1 2 3 4 5`
+
+Both options generate an output file `top_n_recommendations.csv` containing the top `n = 5` recommendations for the specified userIds.
 
 # Example Output
 |userId|movieId|rating|title|genres|algo|
